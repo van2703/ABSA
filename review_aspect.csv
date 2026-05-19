@@ -1,0 +1,617 @@
+comment,chat_luong,dong_goi,van_chuyen,gia_ca,overall
+"Chất lượng sản phẩm: dày dặn... màu tô khác hình",positive,positive,positive,neutral,neutral
+"Chưa dùng... đóng gói cẩn thận, giao nhanh",neutral,positive,positive,neutral,positive
+"Bài viết JISOO...",neutral,neutral,neutral,neutral,neutral
+"Đẹp, màu xinh, khó tô",positive,neutral,neutral,neutral,positive
+"Sản phẩm móp méo",negative,neutral,neutral,neutral,negative
+"Sản phẩm ok nhưng màu tối",neutral,neutral,neutral,neutral,neutral
+"Rẻ đẹp xứng giá",positive,neutral,neutral,positive,positive
+"Hộp móp nhưng sp ok",positive,negative,positive,positive,positive
+"Bị rách nhẹ",negative,neutral,neutral,neutral,neutral
+"Giao nhanh, thiếu sơn",negative,positive,positive,neutral,negative
+"Màu sai hoàn toàn",negative,neutral,neutral,neutral,negative
+"Màu không đúng mẫu",negative,neutral,neutral,neutral,negative
+"Đóng gói kỹ nhưng cọ lỗi",negative,positive,positive,neutral,neutral
+"Màu không giống",negative,neutral,neutral,neutral,negative
+"Màu sai nhưng giá rẻ",negative,neutral,neutral,positive,neutral
+"Đóng gói tốt nhưng màu ít",neutral,positive,neutral,neutral,neutral
+"Giao sai hình",negative,neutral,neutral,neutral,negative
+"Màu khác xa",negative,neutral,neutral,neutral,negative
+"Màu nhạt",negative,neutral,positive,neutral,negative
+"Đẹp nhưng hơi sai",neutral,neutral,neutral,neutral,neutral
+"Shop hỗ trợ tốt",neutral,neutral,neutral,neutral,positive
+"Giá ổn nhưng giao sai",negative,positive,positive,positive,neutral
+"Giao nhầm",negative,neutral,neutral,neutral,negative
+"Cọ lỗi",negative,neutral,neutral,neutral,negative
+"Tranh rách + shop không giữ lời",negative,negative,neutral,neutral,negative
+"Lỗi màu",negative,neutral,positive,positive,neutral
+"Màu khô",negative,neutral,positive,neutral,negative
+"Chất lượng kém + giao lâu",negative,neutral,negative,neutral,negative
+"Màu không giống",negative,neutral,neutral,neutral,negative
+"Màu xấu",negative,neutral,neutral,neutral,negative
+"Chất lượng không đồng đều",negative,neutral,neutral,neutral,negative
+"Rách nhẹ",neutral,neutral,neutral,neutral,positive
+"Lỗi sọc",neutral,neutral,neutral,neutral,neutral
+"Thiếu cọ",negative,neutral,neutral,neutral,negative
+"Giá rẻ nhưng tệ",negative,neutral,neutral,positive,negative
+"Khó tô",neutral,neutral,neutral,neutral,neutral
+"Móc khoá lỗi",negative,neutral,neutral,neutral,negative
+"Thiếu quà tặng",negative,neutral,neutral,neutral,negative
+"Màu sai",negative,neutral,neutral,neutral,negative
+"Không nhận được hàng",negative,neutral,negative,neutral,negative
+"Rất tệ",negative,neutral,neutral,neutral,negative
+"Bị lỗi",negative,neutral,neutral,neutral,negative
+"Không rõ số",negative,neutral,neutral,neutral,negative
+"Spam",neutral,neutral,neutral,neutral,neutral
+"Màu khô",negative,neutral,neutral,neutral,negative
+"Màu không giống",negative,neutral,neutral,neutral,negative
+"Đẹp nhưng sai màu",negative,neutral,positive,neutral,neutral
+"Tốt nhưng cọ lỗi + mùi",neutral,neutral,neutral,neutral,neutral
+"Không đúng mô tả, màu khác, mùi khó chịu",negative,neutral,neutral,positive,neutral
+"Màu khác nhiều so với ảnh",negative,neutral,neutral,neutral,negative
+"Hàng xấu, thất vọng",negative,neutral,positive,neutral,negative
+"Nội dung không liên quan",neutral,neutral,neutral,neutral,neutral
+"3 tranh ok, 1 tranh lỗi",positive,neutral,neutral,neutral,positive
+"Đóng gói sơ sài, giao lâu",neutral,negative,negative,neutral,negative
+"Nhựa, tô xấu",negative,neutral,neutral,neutral,negative
+"Màu nhạt, không giống",negative,neutral,neutral,neutral,negative
+"Nội dung lỗi",neutral,neutral,neutral,neutral,neutral
+"Màu không giống",negative,neutral,neutral,neutral,negative
+"Đẹp nhưng viền khó tô",neutral,neutral,neutral,neutral,neutral
+"Đóng gói tốt, màu lệch",neutral,positive,neutral,neutral,neutral
+"Chất lượng",neutral,neutral,neutral,neutral,neutral
+"Tốt",positive,neutral,neutral,neutral,positive
+"Giao sai màu",negative,neutral,neutral,neutral,negative
+"Ok",positive,neutral,neutral,neutral,positive
+"Màu không đúng",negative,neutral,neutral,neutral,negative
+"Ổn",positive,neutral,neutral,neutral,positive
+"Đẹp nhưng màu khô",negative,neutral,neutral,neutral,neutral
+"Tranh bị cong",negative,neutral,neutral,neutral,negative
+"Đẹp, giao nhanh",positive,neutral,positive,neutral,positive
+"Đủ đồ",neutral,neutral,neutral,neutral,neutral
+"Bình thường",neutral,neutral,neutral,neutral,neutral
+"Đẹp, giá rẻ",positive,neutral,neutral,positive,positive
+"Tốt nhưng thiếu quà",neutral,neutral,neutral,neutral,neutral
+"Tốt, giao nhanh",positive,neutral,positive,neutral,positive
+"Giao nhanh, đẹp",positive,positive,positive,neutral,positive
+"Ổn",neutral,neutral,neutral,neutral,neutral
+"Cọ lỏng",negative,neutral,neutral,positive,neutral
+"Thiếu cọ nhưng shop xử lý tốt",neutral,neutral,neutral,neutral,positive
+"Bị vỡ do vận chuyển",negative,neutral,negative,neutral,negative
+"Khá tốt",positive,neutral,neutral,neutral,positive
+"Màu nhạt",negative,neutral,neutral,neutral,negative
+"Nội dung không liên quan",neutral,neutral,neutral,neutral,neutral
+"Màu đẹp",positive,neutral,neutral,neutral,positive
+"Giao sai 1 cái",negative,neutral,neutral,positive,neutral
+"Giao trễ",neutral,neutral,negative,neutral,negative
+"Cọ lỗi",negative,neutral,neutral,neutral,negative
+"Giao nhanh, đẹp",positive,positive,positive,neutral,positive
+"Thiếu sơn bóng",neutral,neutral,neutral,neutral,neutral
+"Màu khô",negative,neutral,neutral,neutral,negative
+"Đóng gói tốt",positive,positive,neutral,neutral,positive
+"Giá rẻ, chất lượng thấp",negative,neutral,neutral,positive,negative
+"Màu sai",negative,neutral,neutral,neutral,negative
+"Tạm ổn",neutral,neutral,neutral,neutral,neutral
+"Đẹp, giao nhanh",positive,positive,positive,neutral,positive
+"Màu rất tệ",negative,neutral,neutral,neutral,negative
+"Đẹp, giá tốt",positive,neutral,positive,positive,positive
+"Đẹp",positive,neutral,positive,neutral,positive
+"Màu đặc khó tô",negative,neutral,neutral,neutral,negative
+"Ổn, ok",neutral,neutral,neutral,neutral,neutral
+"Rẻ nhưng có lỗi rách",neutral,neutral,neutral,positive,neutral
+"Đẹp, màu tốt",positive,neutral,neutral,neutral,positive
+"Giá rẻ, shipper thân thiện",positive,neutral,positive,positive,positive
+"Đẹp nhưng màu không giống",negative,neutral,positive,neutral,neutral
+"Giao nhanh, đóng gói cẩn thận",neutral,positive,positive,neutral,positive
+"Shop không phản hồi",negative,neutral,neutral,neutral,negative
+"Đẹp",positive,neutral,neutral,neutral,positive
+"1 bộ lỗi",negative,neutral,neutral,neutral,neutral
+"Đóng gói kém gây đổ hàng",negative,negative,neutral,neutral,negative
+"Màu không giống, giá rẻ",negative,neutral,neutral,positive,neutral
+"Đẹp nhưng đóng gói kém",positive,negative,neutral,neutral,neutral
+"Đẹp, giá rẻ, giao nhanh",positive,neutral,positive,positive,positive
+"Đẹp, giao nhanh",positive,neutral,positive,neutral,positive
+"Màu nhạt",negative,neutral,positive,neutral,neutral
+"Thiếu phụ kiện",negative,neutral,positive,neutral,negative
+"Giao đủ",positive,neutral,neutral,neutral,positive
+"1 đơn sai",negative,neutral,neutral,neutral,neutral
+"Đóng gói tốt, giao nhanh",positive,positive,positive,neutral,positive
+"Đóng gói kém",neutral,negative,neutral,neutral,negative
+"Đẹp, giao nhanh",positive,neutral,positive,neutral,positive
+"Màu khô",negative,neutral,neutral,neutral,negative
+"Đóng gói tốt, giao nhanh",positive,positive,positive,neutral,positive
+"Đẹp, đáng mua",positive,neutral,neutral,neutral,positive
+"Đẹp",positive,neutral,neutral,neutral,positive
+"Bị rách",negative,neutral,neutral,neutral,negative
+"Màu khô, thiếu đồ",negative,neutral,positive,neutral,negative
+"Ok",neutral,neutral,neutral,neutral,neutral
+"Màu khô, nét mờ",negative,neutral,neutral,neutral,neutral
+"7/10",neutral,neutral,neutral,neutral,neutral
+"Đẹp nhưng giao lâu",positive,neutral,negative,neutral,neutral
+"Nội dung không liên quan",neutral,neutral,neutral,neutral,neutral
+"Đẹp",positive,neutral,neutral,neutral,positive
+"Màu khác",negative,neutral,neutral,neutral,negative
+"Đẹp, đầy đủ",positive,neutral,neutral,neutral,positive
+"Cọ khó dùng, mùi",negative,neutral,neutral,positive,neutral
+"Khung lệch",negative,neutral,neutral,neutral,negative
+"Ổn, giao nhanh",positive,neutral,positive,neutral,positive
+"Màu đặc",negative,neutral,neutral,neutral,negative
+"Số mờ",negative,neutral,neutral,neutral,neutral
+"Màu không giống",negative,neutral,neutral,neutral,negative
+"Đầy đủ",positive,neutral,neutral,neutral,positive
+"Ổn",neutral,neutral,neutral,neutral,neutral
+"Giao lâu",neutral,neutral,negative,neutral,negative
+"Đẹp nhưng số nhỏ",neutral,neutral,neutral,neutral,neutral
+"Ok",neutral,neutral,neutral,neutral,neutral
+"Bình thường",neutral,neutral,neutral,neutral,neutral
+"Màu khô",negative,neutral,neutral,neutral,negative
+"Lần đầu tô",neutral,neutral,neutral,neutral,neutral
+"Sản phẩm khá đúng mẫu, shipper thân thiện",positive,neutral,positive,neutral,positive
+"1 bức lỗi, thiếu màu",negative,neutral,neutral,neutral,neutral
+"Có mùi nhưng ổn",neutral,neutral,neutral,neutral,neutral
+"Đẹp, dễ tô",positive,neutral,neutral,neutral,positive
+"Bảo quản tốt",positive,neutral,neutral,neutral,positive
+"Cọ cứng nhưng màu đẹp",neutral,neutral,neutral,neutral,neutral
+"Màu không giống ảnh",negative,neutral,neutral,neutral,negative
+"Đẹp",positive,neutral,neutral,neutral,positive
+"Màu không giống, giá không hợp lý",negative,neutral,positive,negative,negative
+"Chưa dùng",neutral,neutral,neutral,neutral,neutral
+"Màu đẹp sau khi khô",positive,neutral,neutral,neutral,positive
+"Tốt nhưng bị rách nhẹ",neutral,neutral,neutral,neutral,neutral
+"Đẹp nhưng màu khác",negative,neutral,neutral,neutral,neutral
+"Giao nhanh nhưng thiếu khung",negative,neutral,positive,neutral,neutral
+"Đẹp nhưng đóng gói ẩu",positive,negative,neutral,neutral,neutral
+"Ok",neutral,neutral,neutral,neutral,neutral
+"Khó tô",neutral,neutral,neutral,neutral,neutral
+"Giao nhanh nhưng thiếu sơn",negative,neutral,positive,neutral,neutral
+"Màu không giống",negative,neutral,neutral,neutral,negative
+"Khó tô",neutral,neutral,neutral,neutral,neutral
+"Đẹp nhưng đóng gói nát",positive,negative,neutral,neutral,neutral
+"Cọ lỗi",negative,neutral,neutral,neutral,negative
+"Màu không giống",negative,positive,neutral,neutral,neutral
+"Rẻ, đẹp",positive,neutral,neutral,positive,positive
+"Đẹp",positive,neutral,neutral,neutral,positive
+"Ghìm bị gỉ",negative,neutral,neutral,neutral,negative
+"Màu nhạt",negative,neutral,neutral,neutral,negative
+"Giao nhanh, ổn",neutral,neutral,positive,neutral,positive
+"Màu nhạt",negative,neutral,neutral,neutral,negative
+"Sai màu nhưng shop hỗ trợ tốt",neutral,neutral,neutral,neutral,positive
+"Tuyệt vời",positive,neutral,neutral,neutral,positive
+"Ổn",neutral,neutral,neutral,neutral,neutral
+"Màu bị khô",negative,neutral,neutral,neutral,negative
+"Ok",neutral,neutral,neutral,neutral,neutral
+"Bình thường",neutral,neutral,neutral,neutral,neutral
+"Chưa dùng",neutral,neutral,neutral,neutral,neutral
+"Ghìm bị gỉ",negative,neutral,neutral,neutral,negative
+"Tạm ổn",neutral,neutral,neutral,neutral,neutral
+"Màu không chuẩn",negative,neutral,neutral,neutral,negative
+"Màu không đúng",negative,neutral,neutral,neutral,negative
+"Ok",neutral,neutral,neutral,neutral,neutral
+"Màu nhạt, bút lỗi",negative,neutral,neutral,neutral,negative
+"Tốt",positive,neutral,neutral,neutral,positive
+"Tốt",positive,neutral,neutral,neutral,positive
+"Màu nhạt",negative,neutral,neutral,neutral,negative
+"Tốt",positive,neutral,neutral,neutral,positive
+"Cọ lỗi",negative,neutral,neutral,neutral,negative
+"Đẹp nhưng khó tô",neutral,neutral,neutral,neutral,neutral
+"Số mờ",negative,neutral,neutral,neutral,negative
+"Thiếu sơn bóng",negative,neutral,neutral,neutral,negative
+"Đẹp nhưng khó tô",positive,neutral,neutral,neutral,positive
+"Cọ bị xù",negative,neutral,neutral,neutral,negative
+"Ngòi bút to khó tô",negative,neutral,neutral,neutral,negative
+"Giao sai hàng",negative,neutral,neutral,neutral,negative
+"Đúng mô tả",positive,neutral,neutral,neutral,positive
+"Ok, xinh",positive,neutral,neutral,neutral,positive
+"Màu đặc, cọ lỗi",negative,neutral,neutral,neutral,negative
+"Cọ cứng",negative,neutral,neutral,neutral,negative
+"Đóng gói kém, móp",neutral,negative,neutral,neutral,negative
+"Thiếu khung",negative,neutral,neutral,neutral,negative
+"Tốt",positive,neutral,neutral,neutral,positive
+"Màu đặc",negative,neutral,neutral,neutral,negative
+"Màu không đúng nhưng rẻ",negative,neutral,neutral,positive,neutral
+"Màu không đẹp",negative,neutral,neutral,neutral,negative
+"Nội dung không liên quan",neutral,neutral,neutral,neutral,neutral
+"Giao thiếu hàng nhưng shop xử lý tốt",neutral,neutral,negative,neutral,positive
+"Màu nhạt",negative,neutral,neutral,neutral,negative
+"Màu lệch",negative,neutral,neutral,neutral,negative
+"Mất số",negative,neutral,neutral,neutral,negative
+"Màu khô",negative,neutral,neutral,neutral,negative
+"1 màu sai",negative,neutral,neutral,neutral,negative
+"Số nhỏ, màu sai nhưng rẻ",negative,neutral,neutral,positive,neutral
+"Giao sai màu, shop không phản hồi",negative,neutral,negative,neutral,negative
+"Đẹp",positive,neutral,neutral,neutral,positive
+"Đẹp",positive,neutral,neutral,neutral,positive
+"Ổn",neutral,neutral,neutral,neutral,neutral
+"Nhiễu",neutral,neutral,neutral,neutral,neutral
+"Giao đủ",positive,neutral,neutral,neutral,positive
+"Thiếu phụ kiện",negative,neutral,neutral,neutral,negative
+"Màu giống nhau",negative,neutral,neutral,neutral,negative
+"Màu không chuẩn",negative,neutral,neutral,neutral,negative
+"Nhiễu",neutral,neutral,neutral,neutral,neutral
+"Đẹp",positive,neutral,neutral,neutral,positive
+"Ổn",neutral,neutral,neutral,neutral,neutral
+"Màu không giống",negative,neutral,neutral,neutral,negative
+"Thiếu sơn bóng",negative,neutral,neutral,neutral,negative
+"Thiếu phụ kiện",negative,neutral,neutral,neutral,negative
+"Giao nhầm hàng",negative,neutral,neutral,neutral,negative
+"Rất tốt",positive,neutral,positive,positive,positive
+"Nhiễu",neutral,neutral,neutral,neutral,neutral
+"Cọ lỗi",negative,neutral,neutral,neutral,negative
+"Số khó thấy",negative,neutral,neutral,neutral,negative
+"Màu nhạt",negative,neutral,neutral,neutral,negative
+"Ổn",neutral,neutral,neutral,neutral,neutral
+"Màu sai",negative,neutral,neutral,neutral,negative
+"Cọ rụng lông",negative,neutral,neutral,neutral,negative
+"Sai hàng",negative,neutral,neutral,neutral,negative
+"Giao nhanh",neutral,neutral,positive,neutral,positive
+"Màu lỗi nhiều",negative,neutral,neutral,neutral,negative
+"Giao nhanh, đóng gói ok",positive,positive,positive,neutral,positive
+"Màu mùi hôi, bám kém",negative,neutral,neutral,neutral,negative
+"Đẹp, có lỗi nhẹ nhưng CSKH tốt",positive,neutral,neutral,neutral,positive
+"Màu nhạt",negative,neutral,neutral,neutral,negative
+"Màu không giống, mùi hôi",negative,neutral,neutral,neutral,negative
+"Cọ lỗi",negative,neutral,neutral,neutral,negative
+"Tốt so với giá nhưng thiếu đồ",neutral,neutral,neutral,positive,neutral
+"Đẹp",positive,neutral,neutral,neutral,positive
+"Đẹp",positive,neutral,neutral,neutral,positive
+"Không rõ chất lượng",neutral,neutral,neutral,neutral,neutral
+"Giao nhanh nhưng màu vón",negative,neutral,positive,neutral,neutral
+"Đẹp nhưng màu không giống",negative,neutral,neutral,neutral,neutral
+"Giá hợp lý nhưng thiếu phụ kiện",neutral,neutral,neutral,positive,neutral
+"Màu nhanh khô",negative,neutral,neutral,neutral,negative
+"Màu đặc",negative,neutral,neutral,neutral,negative
+"Màu tối hơn ảnh",negative,neutral,neutral,neutral,negative
+"Đẹp nhưng cần dung môi",neutral,neutral,neutral,neutral,neutral
+"Màu không đúng",negative,neutral,neutral,neutral,negative
+"Màu lệch nhưng có phụ kiện",neutral,neutral,neutral,neutral,neutral
+"Sai màu nhưng tạm chấp nhận",neutral,neutral,neutral,neutral,neutral
+"Nhiễu",neutral,neutral,neutral,neutral,neutral
+"Đẹp, giao nhanh nhưng màu sai",negative,neutral,positive,positive,neutral
+"Gãy khung",negative,neutral,neutral,neutral,negative
+"Đóng gói tốt, giao nhanh",positive,positive,positive,neutral,positive
+"Cọ chưa tốt",negative,neutral,neutral,neutral,neutral
+"Chất lượng tốt",positive,neutral,neutral,neutral,positive
+"Bút cứng",negative,neutral,neutral,neutral,negative
+"Tuyệt vời, giá hợp lý",positive,neutral,neutral,positive,positive
+"Đẹp nhưng khó tô",neutral,neutral,neutral,neutral,neutral
+"Màu không giống",negative,neutral,neutral,neutral,negative
+"Giao sai thiếu hàng",negative,neutral,neutral,neutral,negative
+"Đẹp nhưng màu khô",negative,neutral,neutral,neutral,neutral
+"Màu khô",negative,neutral,neutral,neutral,negative
+"Tốt",positive,neutral,neutral,neutral,positive
+"Tốt",positive,neutral,neutral,neutral,positive
+"Đẹp",positive,neutral,neutral,neutral,positive
+"Màu lem",negative,neutral,neutral,neutral,negative
+"Tốt",positive,neutral,neutral,neutral,positive
+"Tốt",positive,neutral,neutral,neutral,positive
+"Giao sai mẫu",negative,neutral,neutral,neutral,negative
+"Ổn",neutral,neutral,neutral,neutral,neutral
+"Thiếu khung",negative,neutral,neutral,neutral,negative
+"Ok",neutral,neutral,neutral,neutral,neutral
+"Thiếu sơn bóng",negative,neutral,neutral,neutral,negative
+"Size sai, hoàn tiền sai, dịch vụ tệ",negative,neutral,neutral,negative,negative
+"Không đúng mô tả, chất lượng kém",negative,neutral,neutral,neutral,negative
+"Ok nhưng lỗi quai",neutral,neutral,neutral,neutral,neutral
+"Thiết kế xấu",negative,neutral,neutral,neutral,negative
+"Chất lượng kém, bung chỉ",negative,neutral,neutral,neutral,negative
+"Lỗi cổ áo, shop hỗ trợ kém",negative,neutral,neutral,neutral,negative
+"Thái độ shop tệ",neutral,neutral,neutral,neutral,negative
+"Sản phẩm lỗi",negative,neutral,neutral,neutral,negative
+"Tư vấn sai size",negative,neutral,neutral,neutral,negative
+"Áo xấu, lỗi thiết kế",negative,neutral,neutral,neutral,negative
+"Form lỗi, chất lượng kém",negative,neutral,neutral,neutral,negative
+"Form xấu, dịch vụ kém",negative,neutral,negative,neutral,negative
+"Giao sai size, bẩn",negative,neutral,neutral,neutral,negative
+"Không giao hàng",negative,neutral,negative,neutral,negative
+"Form xấu",negative,neutral,neutral,neutral,negative
+"Chất lượng kém",negative,neutral,neutral,neutral,negative
+"Thiếu hàng, shop không rep",negative,neutral,negative,neutral,negative
+"Vải mỏng, size sai",negative,neutral,neutral,neutral,negative
+"Nhiễu",neutral,neutral,neutral,neutral,neutral
+"May ẩu, lỗi vải",negative,neutral,neutral,neutral,negative
+"Đẹp nhưng CSKH kém",positive,neutral,neutral,neutral,negative
+"Size sai, dịch vụ kém",negative,neutral,neutral,neutral,negative
+"Giao chậm, thiếu hàng",negative,neutral,negative,neutral,negative
+"Form xấu",negative,neutral,neutral,neutral,negative
+"Vải mỏng, mặc xấu",negative,neutral,neutral,negative,negative
+"Giao sai, shop không xử lý",negative,neutral,negative,neutral,negative
+"Giao thiếu, không xử lý",negative,neutral,negative,neutral,negative
+"Xấu, không đáng tiền",negative,neutral,neutral,negative,negative
+"Thiết kế lỗi",negative,neutral,neutral,neutral,negative
+"CSKH kém",neutral,neutral,neutral,neutral,negative
+"Thiếu hàng, không xử lý",negative,neutral,negative,neutral,negative
+"Giao chậm, không phản hồi",negative,neutral,negative,neutral,negative
+"Không có quà",neutral,neutral,neutral,neutral,neutral
+"Chất lượng kém, bung chỉ",negative,neutral,neutral,neutral,negative
+"Lộ mút",negative,neutral,neutral,neutral,negative
+"Thiếu hàng",negative,neutral,neutral,neutral,negative
+"Size sai, form xấu",negative,neutral,neutral,neutral,negative
+"Không đúng mô tả",negative,neutral,neutral,neutral,negative
+"Chất lượng kém",negative,neutral,neutral,neutral,negative
+"Lỗi thiết kế",negative,neutral,neutral,neutral,negative
+"Chất lượng kém, đắt",negative,neutral,neutral,negative,negative
+"Giao sai size",negative,neutral,neutral,neutral,negative
+"Vải mỏng",negative,neutral,neutral,neutral,negative
+"Tuột quai",negative,neutral,neutral,neutral,negative
+"Lỗi dây áo",negative,neutral,neutral,neutral,negative
+"Form xấu, vải nóng",negative,neutral,neutral,neutral,negative
+"Size sai, shop không hỗ trợ",negative,neutral,neutral,neutral,negative
+"1 cái ok, 1 cái chật",neutral,neutral,neutral,neutral,neutral
+"Vải không co giãn, lỗi vải",negative,neutral,neutral,neutral,negative
+"Size sai, form lỗi",negative,neutral,neutral,neutral,negative
+"K có sp này. Shop lừa đảo.hạn chế shop này",negative,neutral,neutral,neutral,negative
+"Tin tưởng shop mua 2 cái thì 1 cái bị bẩn",negative,neutral,negative,neutral,negative
+"Phần mút đậm hơn vải áo nên bị lộ. Ko nên mua",negative,neutral,neutral,neutral,negative
+"Màu sắc: vai xau Chất liệu: xau Đúng với mô tả: không giống Chất liệu xấu ,hàng nhận kh giống hình",negative,neutral,neutral,neutral,negative
+"Bị lsao ý :) áo chất liệu mỏng đến độ thấy cả lớp áo trong mất thảm mĩ vô cùng, quai áo may như tật k giữ cẩn thận là trễ ngay, đưong may xấu, may cẩu thả lệch vải chê vcl nha",negative,neutral,neutral,neutral,negative
+"Giao thiếu hàng, đặt 7 cái áo mà giao 6 cái. Shop giải quyết rất lâu...",negative,negative,negative,neutral,negative
+"Mình ko hài lòng về áo... màu trắng bị bẩn... mút ngực mất form...",negative,neutral,neutral,neutral,negative
+"Chất liệu: vải mỏng, chỉ vải bị bung... chất lượng kém",negative,neutral,neutral,neutral,negative
+"Sản phẩm: Hàng lỗi hoặc bị hư hỏng, Sản phẩm chất lượng kém",negative,neutral,neutral,neutral,negative
+"Có quà đâu mà đính kèm lắm thế nhỉ :))",neutral,neutral,neutral,neutral,neutral
+"Mua 3 cái giao 2 cái là sao? Shop trả lời nhé",negative,neutral,negative,neutral,negative
+"Màu sắc: trắng... vải bị ố",negative,neutral,neutral,neutral,negative
+"Đặt 2 áo size M mà giao 1 M 1 S",negative,neutral,negative,neutral,negative
+"Dây áo mặc bị tuột miếng mút mỏng may lỏng",negative,neutral,neutral,neutral,negative
+"mình không mua sản phẩm này nhưng lại hiện ra phần đánh giá",neutral,neutral,neutral,neutral,neutral
+"Ko giống ảnh , áo bị lỗi",negative,neutral,neutral,neutral,negative
+"Sản phẩm: Sản phẩm không như mô tả Sản phẩm ko giống hình",negative,neutral,neutral,neutral,negative
+"Chất liệu: ok ... mút ngực quá xấu, lộ",negative,neutral,neutral,neutral,negative
+"Sản phẩm: không như mô tả, chất lượng kém",negative,neutral,neutral,neutral,negative
+"Mua tất hồng giao trắng",negative,neutral,negative,neutral,negative
+"Áo nhỏ nóng không mát",negative,neutral,neutral,neutral,negative
+"Không có đâu :))), Shop gian lận lượt đánh giá",negative,neutral,neutral,neutral,negative
+"Form xấu nhưng không đòi hỏi vì giá rẻ",negative,neutral,neutral,positive,neutral
+"Hình ảnh mang tính chất nhận xu... áo tệ",negative,neutral,neutral,neutral,negative
+"Rẻ mà không ok... đệm mút quá chán",negative,neutral,neutral,negative,negative
+"Mút ngực mỏng... áo mỏng",negative,neutral,neutral,neutral,negative
+"Quà tặng không có như mô tả",negative,neutral,neutral,neutral,negative
+"Mua 2 áo mà giao có 1 cái",negative,neutral,negative,neutral,negative
+"Dây bị lệch bên to bên nhỏ",negative,neutral,neutral,neutral,negative
+"Áo ko giống mô tả, phần mút cứng",negative,neutral,neutral,neutral,negative
+"Sản phẩm: lỗi... áo bẩn",negative,neutral,neutral,neutral,negative
+"không nên mua nha k nên mua quá tệ",negative,neutral,neutral,neutral,negative
+"Mình nhận có mỗi váy với chun cột tóc thôi",negative,neutral,negative,neutral,negative
+"Đúng với mô tả: không thích bị lợi dụng...",negative,neutral,neutral,neutral,negative
+"Chất vải ok.Nhưng giao thiếu... dịch vụ tệ",negative,neutral,negative,neutral,negative
+"Sản phẩm: chất lượng kém... áo đỏ lỗi",negative,neutral,neutral,neutral,negative
+"Sản phẩm: lỗi... không như mô tả",negative,neutral,neutral,neutral,negative
+"Sản phẩm: lỗi... may xấu bung chỉ",negative,neutral,neutral,neutral,negative
+"Đúng với mô tả: đúng... dịch vụ rất tệ",positive,neutral,neutral,neutral,negative
+"bị bẩn nhìn chất bẩn...",negative,neutral,neutral,neutral,negative
+"Mua 3 áo nhưng giao có 2c...",negative,neutral,negative,neutral,negative
+"Không ôm sát ngực... tạm ổn",neutral,neutral,neutral,neutral,neutral
+"mua và đã làm rẻ lau ;)))",negative,neutral,neutral,neutral,negative
+"kh giao",negative,neutral,negative,neutral,negative
+"Chất vải xấu",negative,neutral,neutral,neutral,negative
+"chưa nhận nên khbiet",neutral,neutral,neutral,neutral,neutral
+"chưa nhận hàng",neutral,neutral,neutral,neutral,neutral
+"Ko có nhé",neutral,neutral,neutral,neutral,neutral
+"Lộ mút ngực",negative,neutral,neutral,neutral,negative
+"Ko có tặng kèm",negative,neutral,neutral,neutral,negative
+"0 có",neutral,neutral,neutral,neutral,neutral
+"Thiếu đơn hàng",negative,neutral,negative,neutral,negative
+"Shop đâu có tặng",negative,neutral,neutral,neutral,negative
+"Gửi sai size",negative,neutral,negative,neutral,negative
+"Sản phẩm: Sản phẩm không như mô tả Không giống ảnh mô tả",negative,neutral,neutral,neutral,negative
+"vải quá mỏng",negative,neutral,neutral,neutral,negative
+"Chất liệu k co giãn nhiều Mặc nóng bí",negative,neutral,neutral,neutral,negative
+"Sản phẩm: Hàng lỗi hoặc bị hư hỏng Áo đen 0 sao áo xám 1 sao ^_^",negative,neutral,neutral,neutral,negative
+"Áo mặc mát, form cũng đc",positive,neutral,neutral,neutral,positive
+"Không nhận được hàng",negative,neutral,negative,neutral,negative
+"Ko gửi hàng nên mình ko biết",negative,neutral,negative,neutral,negative
+"Sản phẩm: Sản phẩm chất lượng kém",negative,neutral,neutral,neutral,negative
+"Sản phẩm: Sản phẩm không như mô tả",negative,neutral,neutral,neutral,negative
+"Đúng với mô tả: đúng ... form khá đẹp",positive,neutral,neutral,neutral,positive
+"Áo may kỳ... mút lộ... size không ổn",negative,neutral,neutral,neutral,negative
+"Áo đen đẹp... áo xám mút lỗi",neutral,neutral,neutral,neutral,neutral
+"Chất len dày... nhưng lộ mút",neutral,neutral,neutral,neutral,neutral
+"Đóng gói rất đẹp...",neutral,positive,positive,neutral,positive
+"Áo đẹp... nhưng seeding quà",positive,neutral,neutral,neutral,neutral
+"ok",neutral,neutral,neutral,neutral,neutral
+"nội dung lỗi",neutral,neutral,neutral,neutral,neutral
+"mặc đẹp nhưng lộ lót",negative,neutral,neutral,neutral,negative
+"ok nhưng không thích seeding",neutral,neutral,neutral,neutral,neutral
+"chất đẹp nhưng mút không bền",negative,neutral,neutral,neutral,negative
+"áo đẹp nhưng bung chỉ sau giặt",negative,neutral,neutral,neutral,negative
+"2 áo khác size... mút lỗi",negative,neutral,neutral,neutral,negative
+"ok nhưng lộ mút",negative,neutral,neutral,neutral,negative
+"áo đẹp nhưng lộ viền mút",neutral,neutral,neutral,neutral,neutral
+"đóng gói cẩn thận...",positive,positive,positive,neutral,positive
+"hơi chật",negative,neutral,neutral,neutral,negative
+"ok nhưng mút rơi",negative,neutral,neutral,neutral,negative
+"vải ok nhưng mút lỗi",negative,neutral,neutral,neutral,negative
+"bị bẩn nhưng vẫn cho 5*",neutral,neutral,neutral,neutral,neutral
+"mặc đẹp nhưng lộ viền mút",neutral,neutral,neutral,neutral,neutral
+"hơi mỏng lộ mút",negative,neutral,neutral,neutral,negative
+"ok nhưng lỗi cổ và quai",negative,neutral,neutral,neutral,negative
+"ok nhưng dính bẩn",negative,neutral,neutral,neutral,negative
+"tạm ổn nhưng may ẩu",negative,neutral,neutral,neutral,negative
+"đóng gói ok giao nhanh nhưng vải tệ",negative,positive,positive,neutral,negative
+"giống ảnh",positive,neutral,neutral,neutral,positive
+"ok",neutral,neutral,neutral,neutral,neutral
+"rất đẹp nhưng giao sai size",negative,neutral,negative,neutral,negative
+"ok nhưng dây dài và giá chưa hợp lý",neutral,neutral,neutral,negative,neutral
+"chật vai",negative,neutral,neutral,neutral,negative
+"ổn nên mua",positive,neutral,neutral,neutral,positive
+"áo ổn nhưng đóng gói ẩu",neutral,negative,negative,neutral,negative
+"giá rẻ nhưng mút cứng",negative,neutral,neutral,positive,neutral
+"hơi dày đẹp giao nhanh",positive,neutral,positive,neutral,positive
+"vải nóng mút lộ",negative,neutral,neutral,neutral,negative
+"vải mềm hàng ok",positive,neutral,neutral,neutral,positive
+"ổn nhưng giao sai mẫu",neutral,neutral,negative,neutral,negative
+"đóng gói tốt giao nhanh đẹp",positive,positive,positive,neutral,positive
+"vải dày nhưng lộ lót",negative,neutral,neutral,neutral,negative
+"áo lỗi chi tiết",negative,neutral,neutral,neutral,negative
+"chất đẹp nhưng có vết bẩn",neutral,neutral,neutral,neutral,neutral
+"form không giữ được",negative,neutral,neutral,neutral,negative
+"thoải mái nhưng mỏng lộ mút",negative,neutral,neutral,neutral,negative
+"tạm ổn giá rẻ giao nhanh",neutral,positive,positive,positive,neutral
+"dây lỏng nhiều lỗi may",negative,neutral,neutral,neutral,negative
+"mút ngực kì",negative,neutral,neutral,neutral,negative
+"giao nhanh nhưng bị xước",neutral,neutral,positive,neutral,neutral
+"không có nội dung",neutral,neutral,neutral,neutral,neutral
+"ổn nhưng mút xấu chật nách",negative,neutral,neutral,neutral,negative
+"giao nhanh nhưng áo bẩn",negative,neutral,positive,neutral,negative
+"đúng mô tả chất tốt giao nhanh",positive,neutral,positive,neutral,positive
+"đẹp nhưng mút lệch",negative,neutral,neutral,neutral,negative
+"form không đẹp mút lỗi",negative,neutral,neutral,neutral,negative
+"bị xước nhưng chất ok",neutral,neutral,neutral,neutral,neutral
+"rộng nách",negative,neutral,neutral,neutral,negative
+"mỏng lộ mút",negative,neutral,neutral,neutral,negative
+"ổn nhưng không thích quà",neutral,negative,neutral,neutral,neutral
+"giao nhanh nhưng hơi rộng",neutral,neutral,positive,neutral,neutral
+"áo bẩn",negative,neutral,neutral,neutral,negative
+"lộ mút dịch vụ tệ",negative,negative,negative,neutral,negative
+"mút cứng lộ",negative,neutral,neutral,neutral,negative
+"form ok nhưng vải nóng",neutral,neutral,neutral,neutral,neutral
+"size tư vấn sai",negative,neutral,neutral,neutral,negative
+"lộ lớp lót",negative,neutral,neutral,neutral,negative
+"lộ viền mút",negative,neutral,neutral,neutral,negative
+"dây áo lỗi mút lộ",negative,neutral,neutral,neutral,negative
+"bung chỉ",negative,neutral,neutral,neutral,negative
+"đẹp nhưng không đồng đều",neutral,neutral,neutral,neutral,neutral
+"size không đúng shop không phản hồi",negative,neutral,negative,neutral,negative
+"vải nóng",negative,neutral,neutral,neutral,negative
+"vải thô",negative,neutral,positive,neutral,negative
+"chưa dùng",neutral,neutral,neutral,neutral,neutral
+"mỏng size chật",negative,neutral,neutral,neutral,negative
+"bị rách nhiều chỉ thừa",negative,neutral,neutral,neutral,negative
+"không rõ nội dung",neutral,neutral,neutral,neutral,neutral
+"đẹp nhưng bị rách",negative,neutral,neutral,neutral,negative
+"size lỗi",negative,neutral,neutral,neutral,negative
+"chật size",negative,neutral,neutral,neutral,negative
+"lộ mút ngực",negative,neutral,neutral,neutral,negative
+"bình thường rộng",neutral,neutral,neutral,neutral,neutral
+"không co giãn mặc bó",negative,neutral,neutral,neutral,negative
+"dáng ok nhưng vải nóng",negative,neutral,neutral,neutral,negative
+"áo bẩn form xấu",negative,neutral,neutral,neutral,negative
+"mỏng không đều mất thẩm mỹ",negative,neutral,neutral,neutral,negative
+"nhiều chỉ thừa mút lỏng",negative,neutral,neutral,neutral,negative
+"có vết bẩn nhưng chất ok",neutral,neutral,neutral,neutral,neutral
+"mỏng lộ áo trong",negative,neutral,neutral,neutral,negative
+"vai trễ khó chịu",negative,neutral,neutral,neutral,negative
+"mỏng lộ mút nhiều chỉ thừa",negative,neutral,neutral,neutral,negative
+"spam quà tặng ship nhanh",neutral,negative,positive,neutral,neutral
+"chất không đồng đều",negative,neutral,neutral,neutral,negative
+"cổ áo bị lỗi",negative,neutral,neutral,neutral,negative
+"mỏng lộ mút đường may lỗi",negative,neutral,neutral,neutral,negative
+"giao sai mẫu",negative,neutral,negative,neutral,negative
+"vải mỏng form xấu",negative,neutral,neutral,neutral,negative
+"mỏng chờ phản hồi lâu",negative,neutral,negative,neutral,negative
+"bình thường nhưng có vết bẩn",neutral,neutral,neutral,neutral,neutral
+"giao sai màu",negative,neutral,negative,neutral,negative
+"size không vừa",negative,neutral,neutral,neutral,negative
+"vải mỏng xấu",negative,neutral,neutral,neutral,negative
+"vải sổ nhanh",negative,neutral,neutral,neutral,negative
+"size không đồng đều",negative,neutral,neutral,neutral,negative
+"rộng và lộ mút",negative,neutral,neutral,neutral,negative
+"lộ mút dây lỏng giá đắt",negative,neutral,neutral,negative,negative
+"lộ lót ngực",negative,neutral,neutral,neutral,negative
+"áo rộng nóng",negative,neutral,neutral,neutral,negative
+"lộ mút",negative,neutral,neutral,neutral,negative
+"giao sai màu",negative,neutral,negative,neutral,negative
+"vải nóng lộ mút",negative,neutral,neutral,neutral,negative
+"áo bẩn",negative,neutral,neutral,neutral,negative
+"tay áo rộng dễ tuột",negative,neutral,neutral,neutral,negative
+"form xấu lộ mút chật nách",negative,neutral,neutral,neutral,negative
+"vải mỏng không ưng",negative,neutral,neutral,neutral,negative
+"giao sai size nhiều chỉ thừa",negative,neutral,negative,neutral,negative
+"mút không phù hợp form xấu",negative,neutral,neutral,neutral,negative
+"mút lỏng dễ rời",negative,neutral,neutral,neutral,negative
+"không liên quan",neutral,neutral,neutral,neutral,neutral
+"form nhỏ mút lỗi giao lâu",negative,neutral,negative,neutral,negative
+"có vết bẩn vải xù",negative,neutral,neutral,neutral,negative
+"may không cẩn thận lệch vai",negative,neutral,neutral,neutral,negative
+"chật tay mút lộ",negative,neutral,neutral,neutral,negative
+"không co giãn mút nhăn",negative,neutral,neutral,neutral,negative
+"size không đúng",negative,neutral,neutral,neutral,negative
+"không có nội dung",neutral,neutral,neutral,neutral,neutral
+"mút nhô form xấu",negative,neutral,neutral,neutral,negative
+"dây không đều vải nóng",negative,neutral,neutral,neutral,negative
+"mua lại nhưng chật",negative,neutral,neutral,neutral,negative
+"không có quà tặng",neutral,negative,neutral,neutral,negative
+"size lỗi mùi khó chịu",negative,neutral,neutral,neutral,negative
+"mát nhưng mút dày không tự nhiên",neutral,neutral,neutral,neutral,neutral
+"chất ok nhưng giữ form kém",neutral,neutral,neutral,neutral,neutral
+"vải xấu may thô lộ chỉ",negative,neutral,neutral,neutral,negative
+"mỏng lộ mút không giống mô tả",negative,neutral,neutral,neutral,negative
+"lộ mút thất vọng",negative,neutral,neutral,neutral,negative
+"vải nóng không như mong đợi",negative,neutral,neutral,neutral,negative
+"form lỗi mút hỏng",negative,neutral,neutral,neutral,negative
+"shop không che thông tin",neutral,negative,neutral,neutral,negative
+"thiếu quà tặng",neutral,negative,neutral,neutral,negative
+"không nhận hàng",neutral,neutral,negative,neutral,negative
+"lộ mút mút lỏng quai dài",negative,neutral,neutral,neutral,negative
+"form xấu",negative,neutral,neutral,neutral,negative
+"vải bí size không chuẩn",negative,neutral,neutral,neutral,negative
+"quai rộng dễ giãn",negative,neutral,neutral,neutral,negative
+"mùi khó chịu",negative,neutral,neutral,neutral,negative
+"có quà nhưng ít",positive,negative,neutral,neutral,neutral
+"nhiều chỉ thừa",negative,neutral,neutral,neutral,negative
+"không liên quan",neutral,neutral,neutral,neutral,neutral
+"bung chỉ nhiều",negative,neutral,neutral,neutral,negative
+"lộ viền mút",negative,neutral,neutral,neutral,negative
+"vải cứng mút cao",negative,neutral,neutral,neutral,negative
+"bị ra màu",negative,neutral,neutral,neutral,negative
+"chất kém",negative,neutral,neutral,neutral,negative
+"chật tay",negative,neutral,neutral,neutral,negative
+"mút bị lệch",negative,neutral,neutral,neutral,negative
+"vải mỏng",negative,neutral,neutral,neutral,negative
+"ổn nhưng không co giãn size lệch",neutral,neutral,neutral,neutral,neutral
+"size không đồng đều",negative,neutral,neutral,neutral,negative
+"size không chuẩn",negative,neutral,neutral,neutral,negative
+"mỏng lộ mút giá hợp lý",negative,neutral,neutral,positive,neutral
+"chật không được hỗ trợ",negative,neutral,negative,neutral,negative
+"mút lỗi giao nhanh",negative,neutral,positive,neutral,negative
+"màu không hợp da đổi phức tạp",neutral,neutral,neutral,neutral,neutral
+"size chật không mặc được",negative,neutral,neutral,neutral,negative
+"không đẹp tạm chấp nhận",neutral,neutral,neutral,neutral,neutral
+"lộ mút",negative,neutral,neutral,neutral,negative
+"mút không giữ dáng",negative,neutral,neutral,neutral,negative
+"mút lộ rất kỳ",negative,neutral,neutral,neutral,negative
+"mút dày",neutral,neutral,neutral,neutral,neutral
+"dây dài lộ mút",negative,neutral,neutral,neutral,negative
+"lộ lót",negative,neutral,neutral,neutral,negative
+"mỏng rộng",negative,neutral,neutral,neutral,negative
+"size nhỏ",negative,neutral,neutral,neutral,negative
+"mỏng lộ mút",negative,neutral,neutral,neutral,negative
+"chất xấu",negative,neutral,neutral,neutral,negative
+"mỏng lộ mút",negative,neutral,neutral,neutral,negative
+"giao sai size",negative,neutral,negative,neutral,negative
+"lộ mút",negative,neutral,neutral,neutral,negative
+"lộ mút chật tay",negative,neutral,neutral,neutral,negative
+"không có gì đáng giá",neutral,neutral,neutral,neutral,neutral
+"form ổn nhưng cổ lỗi",neutral,neutral,positive,neutral,neutral
+"đẹp nhưng dễ bung chỉ",negative,neutral,neutral,neutral,neutral
+"nhiều chỉ thừa form rộng",negative,neutral,neutral,neutral,negative
+"đúng mô tả giá hợp lý",positive,neutral,neutral,positive,positive
+"chất không đúng nhiều chỉ thừa chật",negative,neutral,neutral,neutral,negative
+"dây nhăn nách khó chịu",negative,neutral,neutral,neutral,negative
+"áo đẹp thoáng",positive,neutral,neutral,neutral,positive
+"tốt nhưng giao sai size",neutral,neutral,negative,neutral,negative
+"ổn nhưng mút giả",neutral,neutral,neutral,neutral,neutral
+"không có quà tặng",neutral,negative,neutral,neutral,negative
+"form xấu lộ mút",negative,neutral,neutral,neutral,negative
+"lộ mút",negative,neutral,neutral,neutral,negative
+"đen đẹp trắng lộ mút",neutral,neutral,neutral,neutral,negative
+"vải xù sau giặt",negative,neutral,neutral,neutral,negative
+"không có quà tặng",neutral,negative,neutral,neutral,negative
+"không rõ nội dung",neutral,neutral,neutral,neutral,neutral
+"lộ mút",negative,neutral,neutral,neutral,negative
+"chất không như hình",negative,neutral,neutral,neutral,negative
+"không rõ nội dung",neutral,neutral,neutral,neutral,neutral
+"lộ mút",negative,neutral,neutral,neutral,negative
+"mút nhăn",negative,neutral,neutral,neutral,negative
+"rộng không hợp",negative,neutral,neutral,neutral,negative
+"cổ rộng không co giãn",negative,neutral,neutral,neutral,negative
+"form không giống mẫu",negative,neutral,neutral,neutral,negative
+"tạm ổn",neutral,neutral,neutral,neutral,neutral
+"mỏng",negative,neutral,neutral,neutral,negative
+"bình thường",neutral,neutral,neutral,neutral,neutral
+"co giãn kém",negative,neutral,neutral,neutral,negative
+"chất cứng",negative,neutral,neutral,neutral,negative
+"ngắn",negative,neutral,neutral,neutral,negative
+"vải mỏng",negative,neutral,neutral,neutral,negative
+"màu bẩn",negative,neutral,neutral,neutral,negative
+"bị bẩn",negative,neutral,neutral,neutral,negative
