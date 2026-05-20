@@ -13,7 +13,7 @@ This project utilizes the **Logistic Regression** model combined with basic Natu
 
 ## 🧩 Phase 1: Data Collection and Preparation
 
-1. **Data Collection:** Collect around 2,000 – 5,000 comments from Shopee/TikTok, focusing on a specific domain (e.g., cosmetics, electronics, or fashion) to ensure data consistency.
+1. **Data Collection:** Collect around 2,000 comments from Shopee, focusing on a specific domain (e.g., cosmetics, electronics, or fashion) to ensure data consistency.
 2. **Define Aspect List:** The actual dataset categorizes comments into 5 main aspects:
    - `chat_luong` (Product Quality)
    - `dong_goi` (Packaging)
