@@ -7,7 +7,7 @@ comment,chat_luong,dong_goi,van_chuyen,gia_ca,overall
 "Sản phẩm ok nhưng màu tối",neutral,neutral,neutral,neutral,neutral
 "Rẻ đẹp xứng giá",positive,neutral,neutral,positive,positive
 "Hộp móp nhưng sp ok",positive,negative,positive,positive,positive
-"Bị rách nhẹ",negative,neutral,neutral,neutral,neutral
+"Bị rách nhẹ",negative,neutral,neutral,neutral,negative 
 "Giao nhanh, thiếu sơn",negative,positive,positive,neutral,negative
 "Màu sai hoàn toàn",negative,neutral,neutral,neutral,negative
 "Màu không đúng mẫu",negative,neutral,neutral,neutral,negative
@@ -18,20 +18,20 @@ comment,chat_luong,dong_goi,van_chuyen,gia_ca,overall
 "Giao sai hình",negative,neutral,neutral,neutral,negative
 "Màu khác xa",negative,neutral,neutral,neutral,negative
 "Màu nhạt",negative,neutral,positive,neutral,negative
-"Đẹp nhưng hơi sai",neutral,neutral,neutral,neutral,neutral
+"Đẹp nhưng hơi sai",neutral,neutral,neutral,neutral,positive
 "Shop hỗ trợ tốt",neutral,neutral,neutral,neutral,positive
 "Giá ổn nhưng giao sai",negative,positive,positive,positive,neutral
 "Giao nhầm",negative,neutral,neutral,neutral,negative
 "Cọ lỗi",negative,neutral,neutral,neutral,negative
 "Tranh rách + shop không giữ lời",negative,negative,neutral,neutral,negative
-"Lỗi màu",negative,neutral,positive,positive,neutral
+"Lỗi màu",negative,neutral,positive,positive,negative
 "Màu khô",negative,neutral,positive,neutral,negative
 "Chất lượng kém + giao lâu",negative,neutral,negative,neutral,negative
 "Màu không giống",negative,neutral,neutral,neutral,negative
 "Màu xấu",negative,neutral,neutral,neutral,negative
 "Chất lượng không đồng đều",negative,neutral,neutral,neutral,negative
 "Rách nhẹ",neutral,neutral,neutral,neutral,positive
-"Lỗi sọc",neutral,neutral,neutral,neutral,neutral
+"Lỗi sọc",neutral,neutral,neutral,neutral,negative
 "Thiếu cọ",negative,neutral,neutral,neutral,negative
 "Giá rẻ nhưng tệ",negative,neutral,neutral,positive,negative
 "Khó tô",neutral,neutral,neutral,neutral,neutral
@@ -45,9 +45,9 @@ comment,chat_luong,dong_goi,van_chuyen,gia_ca,overall
 "Spam",neutral,neutral,neutral,neutral,neutral
 "Màu khô",negative,neutral,neutral,neutral,negative
 "Màu không giống",negative,neutral,neutral,neutral,negative
-"Đẹp nhưng sai màu",negative,neutral,positive,neutral,neutral
-"Tốt nhưng cọ lỗi + mùi",neutral,neutral,neutral,neutral,neutral
-"Không đúng mô tả, màu khác, mùi khó chịu",negative,neutral,neutral,positive,neutral
+"Đẹp nhưng sai màu",negative,neutral,positive,neutral,positive
+"Tốt nhưng cọ lỗi + mùi",neutral,neutral,neutral,neutral,positive
+"Không đúng mô tả, màu khác, mùi khó chịu",negative,neutral,neutral,positive,negative
 "Màu khác nhiều so với ảnh",negative,neutral,neutral,neutral,negative
 "Hàng xấu, thất vọng",negative,neutral,positive,neutral,negative
 "Nội dung không liên quan",neutral,neutral,neutral,neutral,neutral
@@ -55,26 +55,25 @@ comment,chat_luong,dong_goi,van_chuyen,gia_ca,overall
 "Đóng gói sơ sài, giao lâu",neutral,negative,negative,neutral,negative
 "Nhựa, tô xấu",negative,neutral,neutral,neutral,negative
 "Màu nhạt, không giống",negative,neutral,neutral,neutral,negative
-"Nội dung lỗi",neutral,neutral,neutral,neutral,neutral
+"Nội dung lỗi",neutral,neutral,neutral,neutral,negative
 "Màu không giống",negative,neutral,neutral,neutral,negative
 "Đẹp nhưng viền khó tô",neutral,neutral,neutral,neutral,neutral
-"Đóng gói tốt, màu lệch",neutral,positive,neutral,neutral,neutral
-"Chất lượng",neutral,neutral,neutral,neutral,neutral
+"Đóng gói tốt, màu lệch",neutral,positive,neutral,neutral,negative
 "Tốt",positive,neutral,neutral,neutral,positive
 "Giao sai màu",negative,neutral,neutral,neutral,negative
 "Ok",positive,neutral,neutral,neutral,positive
 "Màu không đúng",negative,neutral,neutral,neutral,negative
 "Ổn",positive,neutral,neutral,neutral,positive
-"Đẹp nhưng màu khô",negative,neutral,neutral,neutral,neutral
+"Đẹp nhưng màu khô",negative,neutral,neutral,neutral,negative
 "Tranh bị cong",negative,neutral,neutral,neutral,negative
 "Đẹp, giao nhanh",positive,neutral,positive,neutral,positive
-"Đủ đồ",neutral,neutral,neutral,neutral,neutral
-"Bình thường",neutral,neutral,neutral,neutral,neutral
+"Đủ đồ",neutral,neutral,neutral,neutral,positive
+"Bình thường",neutral,neutral,neutral,neutral,positive
 "Đẹp, giá rẻ",positive,neutral,neutral,positive,positive
-"Tốt nhưng thiếu quà",neutral,neutral,neutral,neutral,neutral
+"Tốt nhưng thiếu quà",neutral,neutral,neutral,neutral,positive
 "Tốt, giao nhanh",positive,neutral,positive,neutral,positive
 "Giao nhanh, đẹp",positive,positive,positive,neutral,positive
-"Ổn",neutral,neutral,neutral,neutral,neutral
+"Ổn",neutral,neutral,neutral,neutral,positive
 "Cọ lỏng",negative,neutral,neutral,positive,neutral
 "Thiếu cọ nhưng shop xử lý tốt",neutral,neutral,neutral,neutral,positive
 "Bị vỡ do vận chuyển",negative,neutral,negative,neutral,negative
@@ -82,11 +81,11 @@ comment,chat_luong,dong_goi,van_chuyen,gia_ca,overall
 "Màu nhạt",negative,neutral,neutral,neutral,negative
 "Nội dung không liên quan",neutral,neutral,neutral,neutral,neutral
 "Màu đẹp",positive,neutral,neutral,neutral,positive
-"Giao sai 1 cái",negative,neutral,neutral,positive,neutral
+"Giao sai 1 cái",negative,neutral,neutral,positive,negative
 "Giao trễ",neutral,neutral,negative,neutral,negative
 "Cọ lỗi",negative,neutral,neutral,neutral,negative
 "Giao nhanh, đẹp",positive,positive,positive,neutral,positive
-"Thiếu sơn bóng",neutral,neutral,neutral,neutral,neutral
+"Thiếu sơn bóng",negative,neutral,neutral,neutral,negative
 "Màu khô",negative,neutral,neutral,neutral,negative
 "Đóng gói tốt",positive,positive,neutral,neutral,positive
 "Giá rẻ, chất lượng thấp",negative,neutral,neutral,positive,negative
@@ -98,10 +97,10 @@ comment,chat_luong,dong_goi,van_chuyen,gia_ca,overall
 "Đẹp",positive,neutral,positive,neutral,positive
 "Màu đặc khó tô",negative,neutral,neutral,neutral,negative
 "Ổn, ok",neutral,neutral,neutral,neutral,neutral
-"Rẻ nhưng có lỗi rách",neutral,neutral,neutral,positive,neutral
+"Rẻ nhưng có lỗi rách",neutral,neutral,neutral,positive,negative
 "Đẹp, màu tốt",positive,neutral,neutral,neutral,positive
 "Giá rẻ, shipper thân thiện",positive,neutral,positive,positive,positive
-"Đẹp nhưng màu không giống",negative,neutral,positive,neutral,neutral
+"Đẹp nhưng màu không giống",negative,neutral,positive,neutral,negative
 "Giao nhanh, đóng gói cẩn thận",neutral,positive,positive,neutral,positive
 "Shop không phản hồi",negative,neutral,neutral,neutral,negative
 "Đẹp",positive,neutral,neutral,neutral,positive
@@ -193,7 +192,7 @@ comment,chat_luong,dong_goi,van_chuyen,gia_ca,overall
 "Màu nhạt",negative,neutral,neutral,neutral,negative
 "Tốt",positive,neutral,neutral,neutral,positive
 "Cọ lỗi",negative,neutral,neutral,neutral,negative
-"Đẹp nhưng khó tô",neutral,neutral,neutral,neutral,neutral
+"Đẹp nhưng khó tô",neutral,neutral,neutral,neutral,positive
 "Số mờ",negative,neutral,neutral,neutral,negative
 "Thiếu sơn bóng",negative,neutral,neutral,neutral,negative
 "Đẹp nhưng khó tô",positive,neutral,neutral,neutral,positive
@@ -217,7 +216,7 @@ comment,chat_luong,dong_goi,van_chuyen,gia_ca,overall
 "Mất số",negative,neutral,neutral,neutral,negative
 "Màu khô",negative,neutral,neutral,neutral,negative
 "1 màu sai",negative,neutral,neutral,neutral,negative
-"Số nhỏ, màu sai nhưng rẻ",negative,neutral,neutral,positive,neutral
+"Số nhỏ, màu sai nhưng rẻ",negative,neutral,neutral,positive,positive
 "Giao sai màu, shop không phản hồi",negative,neutral,negative,neutral,negative
 "Đẹp",positive,neutral,neutral,neutral,positive
 "Đẹp",positive,neutral,neutral,neutral,positive
@@ -251,22 +250,22 @@ comment,chat_luong,dong_goi,van_chuyen,gia_ca,overall
 "Màu nhạt",negative,neutral,neutral,neutral,negative
 "Màu không giống, mùi hôi",negative,neutral,neutral,neutral,negative
 "Cọ lỗi",negative,neutral,neutral,neutral,negative
-"Tốt so với giá nhưng thiếu đồ",neutral,neutral,neutral,positive,neutral
+"Tốt so với giá nhưng thiếu đồ",neutral,neutral,neutral,positive,negative
 "Đẹp",positive,neutral,neutral,neutral,positive
 "Đẹp",positive,neutral,neutral,neutral,positive
 "Không rõ chất lượng",neutral,neutral,neutral,neutral,neutral
-"Giao nhanh nhưng màu vón",negative,neutral,positive,neutral,neutral
-"Đẹp nhưng màu không giống",negative,neutral,neutral,neutral,neutral
-"Giá hợp lý nhưng thiếu phụ kiện",neutral,neutral,neutral,positive,neutral
+"Giao nhanh nhưng màu vón",negative,neutral,positive,neutral,negative
+"Đẹp nhưng màu không giống",negative,neutral,neutral,neutral,negative
+"Giá hợp lý nhưng thiếu phụ kiện",neutral,neutral,neutral,positive,positive
 "Màu nhanh khô",negative,neutral,neutral,neutral,negative
 "Màu đặc",negative,neutral,neutral,neutral,negative
 "Màu tối hơn ảnh",negative,neutral,neutral,neutral,negative
-"Đẹp nhưng cần dung môi",neutral,neutral,neutral,neutral,neutral
+"Đẹp nhưng cần dung môi",neutral,neutral,neutral,neutral,positive
 "Màu không đúng",negative,neutral,neutral,neutral,negative
-"Màu lệch nhưng có phụ kiện",neutral,neutral,neutral,neutral,neutral
+"Màu lệch nhưng có phụ kiện",neutral,neutral,neutral,neutral,negative
 "Sai màu nhưng tạm chấp nhận",neutral,neutral,neutral,neutral,neutral
 "Nhiễu",neutral,neutral,neutral,neutral,neutral
-"Đẹp, giao nhanh nhưng màu sai",negative,neutral,positive,positive,neutral
+"Đẹp, giao nhanh nhưng màu sai",negative,neutral,positive,positive,positive
 "Gãy khung",negative,neutral,neutral,neutral,negative
 "Đóng gói tốt, giao nhanh",positive,positive,positive,neutral,positive
 "Cọ chưa tốt",negative,neutral,neutral,neutral,neutral
@@ -276,7 +275,7 @@ comment,chat_luong,dong_goi,van_chuyen,gia_ca,overall
 "Đẹp nhưng khó tô",neutral,neutral,neutral,neutral,neutral
 "Màu không giống",negative,neutral,neutral,neutral,negative
 "Giao sai thiếu hàng",negative,neutral,neutral,neutral,negative
-"Đẹp nhưng màu khô",negative,neutral,neutral,neutral,neutral
+"Đẹp nhưng màu khô",negative,neutral,neutral,neutral,negative
 "Màu khô",negative,neutral,neutral,neutral,negative
 "Tốt",positive,neutral,neutral,neutral,positive
 "Tốt",positive,neutral,neutral,neutral,positive
@@ -361,7 +360,7 @@ comment,chat_luong,dong_goi,van_chuyen,gia_ca,overall
 "Mua tất hồng giao trắng",negative,neutral,negative,neutral,negative
 "Áo nhỏ nóng không mát",negative,neutral,neutral,neutral,negative
 "Không có đâu :))), Shop gian lận lượt đánh giá",negative,neutral,neutral,neutral,negative
-"Form xấu nhưng không đòi hỏi vì giá rẻ",negative,neutral,neutral,positive,neutral
+"Form xấu nhưng không đòi hỏi vì giá rẻ",negative,neutral,neutral,positive,positive
 "Hình ảnh mang tính chất nhận xu... áo tệ",negative,neutral,neutral,neutral,negative
 "Rẻ mà không ok... đệm mút quá chán",negative,neutral,neutral,negative,negative
 "Mút ngực mỏng... áo mỏng",negative,neutral,neutral,neutral,negative
@@ -380,13 +379,13 @@ comment,chat_luong,dong_goi,van_chuyen,gia_ca,overall
 "Đúng với mô tả: đúng... dịch vụ rất tệ",positive,neutral,neutral,neutral,negative
 "bị bẩn nhìn chất bẩn...",negative,neutral,neutral,neutral,negative
 "Mua 3 áo nhưng giao có 2c...",negative,neutral,negative,neutral,negative
-"Không ôm sát ngực... tạm ổn",neutral,neutral,neutral,neutral,neutral
+"Không ôm sát ngực... tạm ổn",neutral,neutral,neutral,neutral,negative
 "mua và đã làm rẻ lau ;)))",negative,neutral,neutral,neutral,negative
 "kh giao",negative,neutral,negative,neutral,negative
 "Chất vải xấu",negative,neutral,neutral,neutral,negative
 "chưa nhận nên khbiet",neutral,neutral,neutral,neutral,neutral
 "chưa nhận hàng",neutral,neutral,neutral,neutral,neutral
-"Ko có nhé",neutral,neutral,neutral,neutral,neutral
+"Ko có nhé",neutral,neutral,neutral,neutral,negative
 "Lộ mút ngực",negative,neutral,neutral,neutral,negative
 "Ko có tặng kèm",negative,neutral,neutral,neutral,negative
 "0 có",neutral,neutral,neutral,neutral,neutral
@@ -408,21 +407,21 @@ comment,chat_luong,dong_goi,van_chuyen,gia_ca,overall
 "Chất len dày... nhưng lộ mút",neutral,neutral,neutral,neutral,neutral
 "Đóng gói rất đẹp...",neutral,positive,positive,neutral,positive
 "Áo đẹp... nhưng seeding quà",positive,neutral,neutral,neutral,neutral
-"ok",neutral,neutral,neutral,neutral,neutral
+"ok",positive,positive,positive,positive,positive
 "nội dung lỗi",neutral,neutral,neutral,neutral,neutral
 "mặc đẹp nhưng lộ lót",negative,neutral,neutral,neutral,negative
-"ok nhưng không thích seeding",neutral,neutral,neutral,neutral,neutral
+"ok nhưng không thích seeding",neutral,neutral,neutral,neutral,negative
 "chất đẹp nhưng mút không bền",negative,neutral,neutral,neutral,negative
 "áo đẹp nhưng bung chỉ sau giặt",negative,neutral,neutral,neutral,negative
 "2 áo khác size... mút lỗi",negative,neutral,neutral,neutral,negative
 "ok nhưng lộ mút",negative,neutral,neutral,neutral,negative
-"áo đẹp nhưng lộ viền mút",neutral,neutral,neutral,neutral,neutral
+"áo đẹp nhưng lộ viền mút",neutral,neutral,neutral,neutral,negative
 "đóng gói cẩn thận...",positive,positive,positive,neutral,positive
 "hơi chật",negative,neutral,neutral,neutral,negative
 "ok nhưng mút rơi",negative,neutral,neutral,neutral,negative
 "vải ok nhưng mút lỗi",negative,neutral,neutral,neutral,negative
-"bị bẩn nhưng vẫn cho 5*",neutral,neutral,neutral,neutral,neutral
-"mặc đẹp nhưng lộ viền mút",neutral,neutral,neutral,neutral,neutral
+"bị bẩn nhưng vẫn cho 5*",neutral,neutral,neutral,neutral,positive
+"mặc đẹp nhưng lộ viền mút",neutral,neutral,neutral,neutral,negative
 "hơi mỏng lộ mút",negative,neutral,neutral,neutral,negative
 "ok nhưng lỗi cổ và quai",negative,neutral,neutral,neutral,negative
 "ok nhưng dính bẩn",negative,neutral,neutral,neutral,negative
@@ -431,7 +430,7 @@ comment,chat_luong,dong_goi,van_chuyen,gia_ca,overall
 "giống ảnh",positive,neutral,neutral,neutral,positive
 "ok",neutral,neutral,neutral,neutral,neutral
 "rất đẹp nhưng giao sai size",negative,neutral,negative,neutral,negative
-"ok nhưng dây dài và giá chưa hợp lý",neutral,neutral,neutral,negative,neutral
+"ok nhưng dây dài và giá chưa hợp lý",negative,neutral,neutral,negative,negative
 "chật vai",negative,neutral,neutral,neutral,negative
 "ổn nên mua",positive,neutral,neutral,neutral,positive
 "áo ổn nhưng đóng gói ẩu",neutral,negative,negative,neutral,negative
@@ -443,34 +442,34 @@ comment,chat_luong,dong_goi,van_chuyen,gia_ca,overall
 "đóng gói tốt giao nhanh đẹp",positive,positive,positive,neutral,positive
 "vải dày nhưng lộ lót",negative,neutral,neutral,neutral,negative
 "áo lỗi chi tiết",negative,neutral,neutral,neutral,negative
-"chất đẹp nhưng có vết bẩn",neutral,neutral,neutral,neutral,neutral
+"chất đẹp nhưng có vết bẩn",negative,neutral,neutral,neutral,negative
 "form không giữ được",negative,neutral,neutral,neutral,negative
 "thoải mái nhưng mỏng lộ mút",negative,neutral,neutral,neutral,negative
-"tạm ổn giá rẻ giao nhanh",neutral,positive,positive,positive,neutral
+"tạm ổn giá rẻ giao nhanh",neutral,positive,positive,positive,positive
 "dây lỏng nhiều lỗi may",negative,neutral,neutral,neutral,negative
 "mút ngực kì",negative,neutral,neutral,neutral,negative
-"giao nhanh nhưng bị xước",neutral,neutral,positive,neutral,neutral
+"giao nhanh nhưng bị xước",neutral,neutral,positive,neutral,negative
 "không có nội dung",neutral,neutral,neutral,neutral,neutral
 "ổn nhưng mút xấu chật nách",negative,neutral,neutral,neutral,negative
 "giao nhanh nhưng áo bẩn",negative,neutral,positive,neutral,negative
 "đúng mô tả chất tốt giao nhanh",positive,neutral,positive,neutral,positive
 "đẹp nhưng mút lệch",negative,neutral,neutral,neutral,negative
 "form không đẹp mút lỗi",negative,neutral,neutral,neutral,negative
-"bị xước nhưng chất ok",neutral,neutral,neutral,neutral,neutral
+"bị xước nhưng chất ok",positive,neutral,neutral,neutral,positive
 "rộng nách",negative,neutral,neutral,neutral,negative
 "mỏng lộ mút",negative,neutral,neutral,neutral,negative
-"ổn nhưng không thích quà",neutral,negative,neutral,neutral,neutral
-"giao nhanh nhưng hơi rộng",neutral,neutral,positive,neutral,neutral
+"ổn nhưng không thích quà",positive,negative,neutral,neutral,positive
+"giao nhanh nhưng hơi rộng",positive,neutral,positive,neutral,positive
 "áo bẩn",negative,neutral,neutral,neutral,negative
 "lộ mút dịch vụ tệ",negative,negative,negative,neutral,negative
 "mút cứng lộ",negative,neutral,neutral,neutral,negative
-"form ok nhưng vải nóng",neutral,neutral,neutral,neutral,neutral
+"form ok nhưng vải nóng",negative,neutral,neutral,neutral,negative
 "size tư vấn sai",negative,neutral,neutral,neutral,negative
 "lộ lớp lót",negative,neutral,neutral,neutral,negative
 "lộ viền mút",negative,neutral,neutral,neutral,negative
 "dây áo lỗi mút lộ",negative,neutral,neutral,neutral,negative
 "bung chỉ",negative,neutral,neutral,neutral,negative
-"đẹp nhưng không đồng đều",neutral,neutral,neutral,neutral,neutral
+"đẹp nhưng không đồng đều",negative,neutral,neutral,neutral,negative
 "size không đúng shop không phản hồi",negative,neutral,negative,neutral,negative
 "vải nóng",negative,neutral,neutral,neutral,negative
 "vải thô",negative,neutral,positive,neutral,negative
@@ -615,3 +614,441 @@ comment,chat_luong,dong_goi,van_chuyen,gia_ca,overall
 "vải mỏng",negative,neutral,neutral,neutral,negative
 "màu bẩn",negative,neutral,neutral,neutral,negative
 "bị bẩn",negative,neutral,neutral,neutral,negative
+"sữa ít đường tốt cho bé bao bì đẹp date mới mua có voucher",positive,positive,neutral,positive,positive
+"bắp mềm dẻo ngọt vừa phải ăn ngon",positive,neutral,neutral,positive,positive
+"giao hàng nhanh đóng gói kỹ shipper nhiệt tình bé uống hợp",positive,positive,positive,neutral,positive
+"đổi bao bì mới đóng gói cẩn thận bé tăng cân",positive,positive,neutral,neutral,positive
+"sữa thơm béo ít ngọt bao bì chắc chắn giá vừa phải",positive,positive,neutral,positive,positive
+"sữa rất ngon mua được giá ưu đãi",positive,neutral,neutral,positive,positive
+"đóng gói cẩn thận giao đủ số lượng không móp méo shipper thân thiện",neutral,positive,positive,neutral,positive
+"sữa ít đường cho trẻ suy dinh dưỡng",positive,positive,neutral,neutral,positive
+"bé thích uống sẽ mua tiếp",positive,neutral,neutral,neutral,positive
+"giá thành rẻ giao hàng nhanh mặc tiện lợi",neutral,neutral,positive,positive,positive
+"đóng gói chắc chắn giao hàng rất nhanh",neutral,positive,positive,neutral,positive
+"sữa vị nhạt thơm dễ uống bé rất thích",positive,positive,neutral,neutral,positive
+"giao hàng nhanh đóng gói cẩn thận ít ngọt bé dễ uống",positive,positive,positive,neutral,positive
+"sữa giúp bé phát triển tốt",positive,neutral,neutral,neutral,positive
+"mua lúc sale giá rất rẻ giao hàng nhanh bé thích uống",positive,neutral,positive,positive,positive
+"bao bì đẹp sang chất lượng tốt",positive,positive,neutral,neutral,positive
+"sữa ít đường dễ uống giao hàng siêu nhanh",positive,neutral,positive,neutral,positive
+"giao hàng nhanh sản phẩm chất lượng tốt bé tăng cân",positive,neutral,positive,neutral,positive
+"sữa ít đường vị ngọt vừa phải hộp chắc chắn giá rẻ hơn shop",positive,positive,neutral,positive,positive
+"giao hàng mất 2 3 ngày chất lượng ổn",neutral,neutral,negative,neutral,neutral
+"loại thường nhiều đường loại ít đường dễ chấp nhận hơn",neutral,neutral,neutral,neutral,neutral
+"sữa hơi ngọt nhưng chất lượng tốt",neutral,positive,neutral,neutral,positive
+"giao hàng rất nhanh",neutral,neutral,positive,positive,positive
+"sữa chính hãng an tâm sử dụng",positive,neutral,neutral,neutral,positive
+"sữa thơm ngon giúp bé phát triển chiều cao cân nặng",positive,neutral,neutral,neutral,positive
+"đóng gói tạm được sữa chất lượng tốt",positive,neutral,neutral,neutral,positive
+"săn được giá hời đóng gói chống sốc thùng không móp",neutral,positive,neutral,positive,positive
+"shop đóng hàng nhanh kỹ sữa thơm ngon ít ngọt",positive,positive,positive,neutral,positive
+"bé uống được hộp có tay xách tiện lợi",neutral,positive,neutral,neutral,positive
+"sữa ít đường hỗ trợ tăng cân hấp thụ tốt",positive,neutral,neutral,neutral,positive
+"giao hàng nhanh đóng hàng cẩn thận",neutral,positive,positive,neutral,positive
+"giao hàng siêu nhanh hi vọng bé dùng hợp",neutral,neutral,positive,neutral,positive
+"sữa ít đường vị ngọt nhẹ bé rất thích",positive,positive,neutral,neutral,positive
+"giao hàng nhanh sữa ngọt vừa phải bé thích",positive,neutral,positive,neutral,positive
+"sữa hợp tác tốt",positive,positive,neutral,neutral,positive
+"sữa thơm ngọt bé thích giao hàng nhanh",positive,neutral,positive,neutral,positive
+"bé hợp khẩu vị rất thích",positive,neutral,neutral,neutral,positive
+"săn sale được giá cực hời",neutral,neutral,neutral,positive,positive
+"hàng mall yên tâm bé thích uống",positive,neutral,neutral,neutral,positive
+"săn được giá hời đóng gói cẩn thận thùng không móp méo",neutral,positive,neutral,positive,positive
+"sữa ít đường thơm ngon giá hời",positive,neutral,neutral,positive,positive
+"sữa thơm ngon ngọt nhẹ bé hợp tác",positive,positive,neutral,neutral,positive
+"giao hàng nhanh đúng mẫu mã",neutral,positive,positive,neutral,positive
+"giao hàng siêu nhanh bé chịu hợp tác",positive,neutral,positive,neutral,positive
+"giao hàng nhanh đóng hàng ổn sản phẩm không vỡ hỏng",neutral,positive,positive,neutral,positive
+"bé hợp tác uống theo tư vấn bác sĩ",positive,neutral,neutral,neutral,positive
+"sữa ngon vị ngọt vừa phải đóng gói cẩn thận giao nhanh",positive,positive,positive,neutral,positive
+"hàng không kèm quà tặng như tư vấn",neutral,neutral,neutral,negative,negative
+"đóng gói kỹ hạn sử dụng còn lâu bé rất thích",positive,positive,neutral,neutral,positive
+"giao hàng rất nhanh",neutral,neutral,positive,neutral,positive
+"sữa ít đường dễ uống bé thích uống mua được giá sale",positive,positive,neutral,positive,positive
+"sữa chính hãng chất lượng tốt săn giá rẻ bé uống hợp",positive,neutral,neutral,positive,positive
+"sữa ít đường ngọt nhẹ dễ uống bao bì chắc chắn",positive,positive,neutral,neutral,positive
+"chất lượng vượt mong đợi giao hàng nhanh đóng gói cẩn thận shop hỗ trợ nhiệt tình",positive,positive,positive,neutral,positive
+"sữa ít đường ngọt vừa bé thích uống giao hàng nhanh đủ số lượng",positive,neutral,positive,neutral,positive
+"sữa ngon thơm vị vừa phải mua được giá rẻ",positive,neutral,neutral,positive,positive
+"shop gói hàng kỹ giao hàng nhanh đủ số lượng",neutral,positive,positive,neutral,positive
+"giao hàng nhanh shipper nhiệt tình",neutral,neutral,positive,neutral,positive
+"sữa ngon trẻ rất thích",positive,neutral,neutral,neutral,positive
+"shop gói hàng kỹ giao hàng nhanh đủ số lượng",neutral,positive,positive,neutral,positive
+"sữa giúp bé tăng cân ổn định tiêu hóa giao hàng nhanh đóng gói chống sốc",positive,positive,positive,neutral,positive
+"sử dụng rất tốt bé rất thích",positive,neutral,neutral,neutral,positive
+"bé chịu uống vị ngọt vừa không quá gắt",positive,neutral,neutral,neutral,positive
+"sữa dinh dưỡng hiệu quả giao hàng tương đối nhanh",positive,neutral,positive,neutral,positive
+"sữa dễ uống đóng gói kỹ",positive,positive,neutral,neutral,positive
+"đóng gói cẩn thận giao hàng nhanh sữa ít đường dễ uống",positive,positive,positive,neutral,positive
+"giao hàng nhanh đóng gói chắc chắn sữa ngon bé thích",positive,positive,positive,neutral,positive
+"sữa ít ngọt dễ uống không bị ngán",positive,neutral,neutral,neutral,positive
+"đóng gói hàng ok hàng chính hãng",positive,positive,neutral,neutral,positive
+"giao hàng nhanh đóng gói cẩn thận",neutral,positive,positive,neutral,positive
+"săn được giá hời bé rất thích uống",positive,neutral,neutral,positive,positive
+"đóng gói cẩn thận sữa uống ổn",positive,positive,neutral,neutral,positive
+"hạn sử dụng xa đóng gói cẩn thận bé uống phù hợp",positive,positive,neutral,neutral,positive
+"hương vị thơm ngon dễ uống hộp chắc chắn tiện dùng",positive,positive,neutral,neutral,positive
+"giao nhanh đóng gói cẩn thận date xa",neutral,positive,positive,neutral,positive
+"sữa ít ngọt ngon bé thích uống",positive,neutral,neutral,neutral,positive
+"giao hàng nhanh sản phẩm chất lượng tốt",positive,positive,positive,neutral,positive
+"sữa ngon bổ rẻ hộp nhỏ tiện lợi",positive,positive,neutral,positive,positive
+"đóng gói cẩn thận sản phẩm đúng mô tả",positive,positive,neutral,neutral,positive
+"sữa ít đường dễ uống vị ngọt vừa béo thơm giao hàng nhanh",positive,positive,positive,neutral,positive
+"giao nhanh hàng chính hãng date xa mua rất rẻ",positive,neutral,positive,positive,positive
+"sản phẩm chất lượng giao hàng nhanh đóng gói chắc chắn",positive,positive,positive,neutral,positive
+"thương hiệu uy tín lâu năm yên tâm sử dụng",positive,neutral,neutral,neutral,positive
+"sữa giúp tăng chiều cao tăng cân tốt",positive,neutral,neutral,neutral,positive
+"hạt giàu dinh dưỡng dễ ăn tiện mang theo",positive,positive,neutral,neutral,positive
+"sữa ngon ít ngọt bé uống phù hợp",positive,positive,neutral,neutral,positive
+"giao hàng siêu nhanh",neutral,neutral,positive,neutral,positive
+"chất lượng khá tốt bao bì đóng gói cẩn thận",positive,positive,neutral,neutral,positive
+"sữa ổn săn được giá tốt",positive,neutral,neutral,positive,positive
+"chất lượng vượt mong đợi thiết kế đẹp chất liệu chắc chắn",positive,positive,neutral,neutral,positive
+"sữa dễ uống vị ngọt nhẹ đóng gói cẩn thận",positive,positive,neutral,neutral,positive
+"sữa thơm ngon giúp bé tăng cân",positive,positive,neutral,neutral,positive
+"mua thử cho bé uống nếu hợp sẽ mua tiếp",neutral,neutral,neutral,neutral,neutral
+"giao hàng nhanh đóng gói tạm ổn",neutral,neutral,positive,neutral,neutral
+"sữa giúp trẻ tăng cân phát triển chiều cao",positive,neutral,neutral,neutral,positive
+"sữa thơm ngon ngọt nhẹ giá rẻ giao nhanh",positive,neutral,positive,positive,positive
+"vẫn mua sữa này cho con uống",positive,neutral,neutral,neutral,positive
+"bé rất thích sữa grow plus ít đường",positive,neutral,neutral,neutral,positive
+"áo đẹp mặc làm cardigan phối đồ xinh",positive,neutral,neutral,neutral,positive
+"giao hàng nhanh hàng nguyên không móp méo",neutral,positive,positive,neutral,positive
+"sữa ít đường phù hợp cho bé bị sún răng",positive,positive,neutral,neutral,positive
+"kem thấm nhanh thơm dễ chịu nâng tone tốt",positive,neutral,neutral,neutral,positive
+"sữa ngon nhưng hơi ngọt bé rất thích uống",neutral,neutral,neutral,neutral,positive
+"giao hàng nhanh đóng gói cẩn thận",neutral,positive,positive,neutral,positive
+"bé uống hết nên chưa có ảnh đánh giá",neutral,neutral,neutral,neutral,neutral
+"giao nhanh đủ hàng chất lượng tốt",positive,neutral,positive,neutral,positive
+"ngon bổ rẻ giao nhanh",positive,neutral,positive,positive,positive
+"quần áo thoáng mát mềm mại thấm hút tốt",positive,positive,neutral,neutral,positive
+"đóng gói chắc chắn giao hàng nhanh",neutral,positive,positive,neutral,positive
+"sản phẩm chất lượng cao giá hợp lý giao hàng nhanh đóng gói kỹ",positive,positive,positive,positive,positive
+"bé rất thích uống sẽ mua tiếp",positive,positive,neutral,neutral,positive
+"sữa thơm ít ngọt bé hợp tác",positive,positive,neutral,neutral,positive
+"áo đẹp phối đồ xinh",positive,neutral,neutral,neutral,positive
+"sữa không quá ngọt ngon cho bé uống",positive,positive,neutral,neutral,positive
+"giao hàng nhanh không móp méo săn được giá rẻ",neutral,positive,positive,positive,positive
+"đóng gói chống sốc kỹ date xa",neutral,positive,neutral,neutral,positive
+"combo thời trang đẹp quà tặng hấp dẫn",positive,neutral,neutral,positive,positive
+"shop hỗ trợ đổi hộp lớn nhưng giữ nguyên giá",positive,neutral,neutral,positive,positive
+"giao hàng nhanh đóng gói cẩn thận shop tư vấn nhiệt tình",positive,positive,positive,neutral,positive
+"giao hàng nhanh đóng gói kỹ",neutral,positive,positive,neutral,positive
+"sữa hỗ trợ tăng chiều cao cho bé nhẹ cân",positive,neutral,neutral,neutral,positive
+"giao hàng nhanh đóng gói cẩn thận sữa ổn",positive,positive,positive,neutral,positive
+"thông báo trung thu lớp học",neutral,neutral,neutral,neutral,neutral
+"kem giữ ẩm tốt che khuyết điểm",positive,neutral,neutral,neutral,positive
+"sữa tăng cân tăng chiều cao",positive,neutral,neutral,neutral,positive
+"canh sale mua rẻ hơn nhiều quà tặng không đáng",neutral,neutral,neutral,negative,neutral
+"shop gói hàng kỹ giao hàng nhanh đủ số lượng",neutral,positive,positive,neutral,positive
+"sản phẩm chất lượng cao giá tốt giao hàng nhanh",positive,positive,positive,positive,positive
+"sữa ít đường dễ uống bé hợp tác chưa thấy tăng cân",neutral,neutral,neutral,neutral,neutral
+"bé rất hợp tác giá cả phải chăng giao hàng nhanh",positive,neutral,positive,positive,positive
+"ít ngọt đỡ đầy bụng hãng uy tín",positive,neutral,neutral,neutral,positive
+"giao nhanh date mới date xa",neutral,neutral,positive,neutral,positive
+"sữa giúp bé tăng cân tiêu hóa tốt",positive,neutral,neutral,neutral,positive
+"date xa giá ổn nhưng đóng gói chưa kỹ dễ vỡ",neutral,negative,neutral,positive,neutral
+"đóng gói cẩn thận chưa dùng nên chưa rõ chất lượng",neutral,positive,neutral,neutral,neutral
+"giao hàng nhanh đóng gói kỹ sữa béo ít ngọt",positive,positive,positive,neutral,positive
+"sản phẩm chất lượng trẻ em nên dùng ít đường",positive,neutral,neutral,neutral,positive
+"giá cả hợp lý phù hợp cho trẻ suy dinh dưỡng",positive,neutral,neutral,positive,positive
+"sữa thơm ngon dễ uống bé rất thích giao hàng nhanh",positive,positive,positive,neutral,positive
+"canh sale mua rẻ được tặng quà nhưng quà nhỏ không đẹp",neutral,neutral,neutral,negative,neutral
+"đóng gói cẩn thận giao hàng nhanh sữa ngon",positive,positive,positive,neutral,positive
+"đóng gói cẩn thận shipper thân thiện giao đúng hẹn",neutral,positive,positive,neutral,positive
+"sữa ngon dễ uống bé rất thích",positive,positive,neutral,neutral,positive
+"sữa ít đường dễ uống săn sale rẻ hơn cửa hàng",positive,neutral,neutral,positive,positive
+"ít ngọt bé dễ uống bao bì đẹp",positive,positive,neutral,neutral,positive
+"sữa dễ uống bé hợp tác chưa thấy tăng cân",neutral,positive,neutral,neutral,neutral
+"ship nhanh mua được giá rẻ",neutral,neutral,positive,positive,positive
+"sản phẩm tốt bé hợp tác",positive,neutral,neutral,neutral,positive
+"giao nhanh, shop uy tín",neutral,neutral,positive,neutral,positive
+"sữa ít ngọt, tiêu hóa tốt",positive,neutral,neutral,neutral,positive
+"date xa, giá oke, đóng gói chưa kỹ",neutral,negative,neutral,positive,neutral
+"đóng gói cẩn thận",neutral,positive,neutral,neutral,positive
+"sữa béo, ít ngọt, giao nhanh, đóng gói kỹ",positive,positive,positive,neutral,positive
+"sản phẩm chất lượng tốt",positive,positive,neutral,neutral,positive
+"giá cả hợp lý",positive,neutral,neutral,positive,positive
+"sữa thơm ngon dễ uống, giao nhanh",positive,positive,positive,neutral,positive
+"sale rẻ, hi vọng hàng chuẩn",neutral,neutral,neutral,positive,neutral
+"đóng gói cẩn thận, giao nhanh",neutral,positive,positive,neutral,positive
+"đóng gói cẩn thận, giao đúng hẹn",neutral,positive,positive,neutral,positive
+"sữa ngon dễ uống",positive,neutral,neutral,neutral,positive
+"ít đường dễ uống, săn sale rẻ",positive,neutral,neutral,positive,positive
+"ít ngọt, bé dễ uống",positive,positive,neutral,neutral,positive
+"bao bì cứng cáp, ít đường dễ uống",positive,positive,neutral,neutral,positive
+"ship nhanh, giá rẻ",neutral,neutral,positive,positive,positive
+"sản phẩm tốt",positive,neutral,neutral,neutral,positive
+"bao bì đẹp",neutral,positive,neutral,neutral,neutral
+"giao nhanh, giá siêu tốt",positive,neutral,positive,positive,positive
+"giao nhanh, chất lượng tốt",positive,neutral,positive,neutral,positive
+"ít đường, ổn định lâu dài",positive,neutral,neutral,neutral,positive
+"giao nhanh, săn sale rẻ",neutral,neutral,positive,positive,positive
+"ít ngọt, đóng kỹ chống sốc",positive,positive,neutral,neutral,positive
+"sữa thơm ngon nhưng bé bị táo bón",negative,neutral,neutral,neutral,negative
+"đóng gói kỹ, giao nhanh",positive,positive,positive,neutral,positive
+"bao bì bị móp méo",neutral,negative,neutral,neutral,negative
+"đóng gói kỹ càng, giao nhanh",positive,positive,positive,neutral,positive
+"giao nhanh đúng mẫu, sale rẻ",neutral,neutral,positive,positive,positive
+"tiêu hóa tốt, đóng gói kỹ",positive,positive,neutral,neutral,positive
+"tin dùng loại ít đường",positive,neutral,neutral,neutral,positive
+"đóng gói cẩn thận, giao nhanh",positive,positive,positive,neutral,positive
+"thùng sữa đúng mô tả",neutral,neutral,neutral,neutral,positive
+"đóng gói cẩn thận nhưng giao hơi lâu",positive,positive,negative,positive,neutral
+"sản phẩm đúng mô tả, giao nhanh",positive,positive,positive,neutral,positive
+"gói hàng kỹ, giao nhanh",positive,positive,positive,neutral,positive
+"sữa ngon bé thích",positive,neutral,neutral,neutral,positive
+"giá rẻ, hàng chính hãng",positive,neutral,neutral,positive,positive
+"bao bì nguyên vẹn, giao nhanh",positive,positive,positive,neutral,positive
+"ít đường dễ uống, bao bì đẹp",positive,positive,neutral,neutral,positive
+"ít đường, tiện lợi",positive,positive,neutral,neutral,positive
+"hàng đẹp đúng mô tả, giao nhanh",positive,positive,positive,neutral,positive
+"sản phẩm vượt mong đợi",positive,neutral,neutral,neutral,positive
+"đóng gói kỹ, giao tương đối nhanh",neutral,positive,positive,neutral,positive
+"thiết kế đơn giản dễ dùng, giao nhanh",positive,positive,positive,neutral,positive
+"bao bì đóng gói tốt, giao nhanh",positive,positive,positive,neutral,positive
+"giao nhanh, đóng gói cẩn thận",neutral,positive,positive,neutral,positive
+"chè lam ít ngọt, lạc rang thơm, giòn tan",positive,neutral,neutral,neutral,positive
+"sản phẩm tốt, giao hàng nhanh",positive,positive,positive,neutral,positive
+"mẫu mã đẹp, giao nhanh, đóng gói cẩn thận",positive,positive,positive,neutral,positive
+"sneaker phối màu đẹp",positive,neutral,neutral,neutral,positive
+"chất lượng tốt, giao nhanh, giá rẻ",positive,positive,positive,positive,positive
+"giao hàng nhanh, đóng gói nhanh, sản phẩm ổn",positive,positive,positive,neutral,positive
+"giao hàng nhanh, shipper thân thiện",neutral,neutral,positive,neutral,positive
+"sữa bé thích, giao hàng nhanh",positive,neutral,positive,neutral,positive
+"sữa dinh dưỡng cao nhưng hơi ngọt",neutral,neutral,neutral,neutral,neutral
+"sữa ngon, giao nhanh",positive,neutral,positive,neutral,positive
+"giao hơi chậm nhưng đóng gói kỹ",neutral,positive,negative,neutral,neutral
+"sản phẩm rất tốt, đóng gói cẩn thận, giao nhanh",positive,positive,positive,neutral,positive
+"sản phẩm ok, giao hàng nhanh",positive,neutral,positive,neutral,positive
+"uống ok, giao hàng nhanh",positive,neutral,positive,neutral,positive
+"rất ưng ý, đóng hàng tuyệt vời, đi hàng nhanh",positive,positive,positive,neutral,positive
+"sản phẩm tốt, giao nhanh, đóng gói cẩn thận",positive,positive,positive,neutral,positive
+"giao nhanh, đóng gói cẩn thận, đáng giá tiền",positive,positive,positive,positive,positive
+"sữa ít đường, thơm ngon",positive,positive,neutral,neutral,positive
+"giao hàng nhanh, hạn sử dụng xa, đóng gói cẩn thận",positive,positive,positive,neutral,positive
+"bọc hàng kỹ nhưng hộp bị móp",neutral,negative,neutral,neutral,negative
+"sữa dừa thơm, thanh, không quá ngọt",positive,neutral,neutral,neutral,positive
+"ít ngọt, bé dễ uống",positive,neutral,neutral,neutral,positive
+"sản phẩm chính hãng, bao bì đẹp",positive,positive,neutral,neutral,positive
+"đóng gói cẩn thận, giao hàng nhanh",neutral,positive,positive,neutral,positive
+"giá cao hơn mua cửa hàng",neutral,neutral,neutral,negative,negative
+"thiết kế tinh tế, hiệu suất tốt",positive,neutral,neutral,neutral,positive
+"sản phẩm tốt, mua trên app rẻ hơn",positive,neutral,neutral,positive,positive
+"giao hàng nhanh, shipper thân thiện",neutral,neutral,positive,neutral,positive
+"giao hàng nhanh chóng, giá hợp lí",positive,neutral,positive,positive,positive
+"sữa ít đường vị vani, bé thích",positive,neutral,neutral,neutral,positive
+"shop giao đúng sản phẩm",neutral,neutral,positive,neutral,positive
+"sữa dễ uống, giá rẻ, ship nhanh",positive,neutral,positive,positive,positive
+"thùng sữa hơi móp méo",neutral,negative,positive,neutral,neutral
+"đóng gói kỹ, hàng không đổ vỡ, giá rẻ",positive,positive,neutral,positive,positive
+"sữa thơm ngon, săn được giá tốt",positive,neutral,neutral,positive,positive
+"giao nhanh, gói kỹ, sữa ngon",positive,positive,positive,neutral,positive
+"đóng gói hơi sơ sài nhưng sản phẩm nguyên vẹn",neutral,negative,neutral,neutral,neutral
+"rất ưng ý, đóng hàng tuyệt vời, đi hàng nhanh",positive,positive,positive,neutral,positive
+"gói hàng ok, giá tốt",neutral,positive,neutral,positive,positive
+"shop giao nhanh, đóng gói ok, giá rẻ",neutral,positive,positive,positive,positive
+"sữa ngon, bé thích, đóng gói kỹ",positive,positive,neutral,neutral,positive
+"mua chính hãng nên yên tâm",positive,neutral,neutral,neutral,positive
+"giao hàng nhanh, gói hàng cẩn thận, chất lượng tốt",positive,positive,positive,neutral,positive
+"tủ đa năng tiện ích",positive,neutral,neutral,neutral,positive
+"shop giao hàng nhanh, đúng đủ hàng",neutral,neutral,positive,neutral,positive
+"đóng hàng nhanh, giao hàng nhanh",neutral,positive,positive,neutral,positive
+"đóng gói cẩn thận, giao siêu nhanh",positive,positive,positive,neutral,positive
+"sữa giúp bé tăng cân, hộp chắc chắn",positive,positive,neutral,neutral,positive
+"sữa ngon, hỗ trợ tăng cân, giao hàng nhanh, sale rẻ",positive,positive,positive,positive,positive
+"sữa thanh mát ít đường, bao bì đẹp",positive,positive,neutral,neutral,positive
+"sản phẩm đẹp mắt, giá hợp lý, giao đúng giờ",positive,positive,positive,positive,positive
+"sản phẩm tốt, bao bì đẹp mắt",positive,positive,neutral,neutral,positive
+"sữa ít đường thơm ngon, đóng gói cẩn thận",positive,positive,neutral,neutral,positive
+"giao hàng nhanh, săn sale giá rẻ, bé thích",positive,neutral,positive,positive,positive
+"mẫu mã đẹp, giao nhanh, đóng gói cẩn thận",positive,positive,positive,neutral,positive
+"đóng gói cẩn thận, ship nhanh",neutral,positive,positive,neutral,positive
+"sản phẩm đúng hình, chất lượng ổn",positive,positive,neutral,neutral,positive
+"sữa thơm ngon, không quá ngọt",positive,neutral,neutral,neutral,positive
+"giá cả phải chăng",neutral,neutral,neutral,positive,positive
+"đóng gói cẩn thận, giao hàng nhanh",neutral,positive,positive,neutral,positive
+"chất lượng vượt trội, giá hợp lý, giao nhanh",positive,positive,positive,positive,positive
+"đóng gói cẩn thận, date xa, bé thích",positive,positive,neutral,neutral,positive
+"bé hợp tác, săn sale giá tốt",positive,neutral,neutral,positive,positive
+"giao đúng sản phẩm, giao nhanh",positive,neutral,positive,neutral,positive
+"sữa ít đường, săn được giá rẻ",positive,neutral,neutral,positive,positive
+"sữa ngọt thanh, bé uống hợp",positive,neutral,neutral,neutral,positive
+"shop gói cẩn thận, giao nhanh",positive,positive,positive,neutral,positive
+"sữa ngon không quá ngọt",positive,neutral,neutral,neutral,positive
+"ship lẹ, đã mua nhiều lần",positive,neutral,positive,neutral,positive
+"sữa ít đường, hộp chắc chắn",positive,positive,neutral,neutral,positive
+"sữa ngọt dịu, phù hợp giá tiền",positive,positive,neutral,positive,positive
+"đã mua nhiều lần, ổn áp",positive,neutral,neutral,neutral,positive
+"giao hàng nhanh, chất lượng tuyệt vời",positive,neutral,positive,neutral,positive
+"giao hàng nhanh, đóng gói chắc chắn, hsd xa",positive,positive,positive,neutral,positive
+"sữa ngon dễ uống, bé thích",positive,positive,neutral,neutral,positive
+"vị ngọt vừa phải dễ uống, giao hàng nhanh",positive,positive,positive,neutral,positive
+"mua nhiều lần rồi, hàng chính hãng",positive,neutral,neutral,neutral,positive
+"giao hàng nhanh nhưng hộp hơi móp",positive,negative,positive,neutral,neutral
+"hạn dùng xa, gửi hàng nhanh, sale tốt",neutral,positive,positive,positive,positive
+"đóng gói cẩn thận, loại 48 hộp rẻ hơn",positive,positive,neutral,positive,positive
+"sữa giúp bé ăn ngon và tăng cân",positive,positive,neutral,neutral,positive
+"sữa ngon, bé rất thích",positive,neutral,neutral,neutral,positive
+"giao hàng nhanh, đóng gói cẩn thận",neutral,positive,positive,neutral,positive
+"sữa giúp bé tăng cân và phát triển chiều cao",positive,positive,neutral,neutral,positive
+"giao hàng nhanh, phù hợp giá tiền",positive,positive,positive,positive,positive
+"sữa ok, bao bì chắc chắn",positive,positive,neutral,neutral,positive
+"giao hàng nhanh, đúng sản phẩm, hàng chính hãng",positive,neutral,positive,neutral,positive
+"shop giao hàng nhanh, chất lượng ok",positive,neutral,positive,neutral,positive
+"chưa thấy hiệu quả nhưng giao nhanh, đóng gói cẩn thận",negative,positive,positive,neutral,neutral
+"chưa thấy hiệu quả, giao hàng nhanh, đóng gói cẩn thận",negative,positive,positive,neutral,neutral
+"sản phẩm tốt phù hợp giá tiền, đóng gói cẩn thận",positive,positive,neutral,positive,positive
+"sữa ít ngọt dễ uống, hộp nhỏ tiện mang đi",positive,positive,neutral,neutral,positive
+"sản phẩm ổn khá đẹp",positive,neutral,neutral,positive,positive
+"sản phẩm tuyệt vời, đóng gói chắc chắn, giao nhanh",positive,positive,positive,neutral,positive
+"đóng gói kỹ, mẫu mã đẹp, sale giá rẻ",positive,positive,neutral,positive,positive
+"giao hàng nhanh, đóng gói cẩn thận",neutral,positive,positive,neutral,positive
+"mẫu mã đẹp, giao nhanh, gói cẩn thận",positive,positive,positive,neutral,positive
+"sữa ngọt vừa béo",positive,neutral,neutral,neutral,positive
+"bé hay uống, săn sale giá tốt",positive,neutral,neutral,positive,positive
+"bé hợp tác, sale giá tốt",positive,neutral,neutral,positive,positive
+"sản phẩm tốt, bao bì đẹp",positive,positive,neutral,neutral,positive
+"dễ uống, phù hợp giá tiền",positive,positive,neutral,positive,positive
+"đóng gói cẩn thận, giao hàng nhanh",positive,positive,positive,neutral,positive
+"giá thành hợp lý, chất lượng tốt",positive,neutral,neutral,positive,positive
+"sữa ngon bé thích, giao nhanh, đóng gói chắc chắn",positive,positive,positive,neutral,positive
+"giá rẻ hơn nhiều nơi",neutral,neutral,neutral,positive,positive
+"giao nhanh, đóng hàng kỹ, sale rẻ",neutral,positive,positive,positive,positive
+"đóng gói cẩn thận, giá ổn",neutral,positive,neutral,positive,positive
+"đúng sản phẩm, giao nhanh, đóng gói cẩn thận",positive,positive,positive,neutral,positive
+"giá cả phải chăng, shipper nhiệt tình",neutral,neutral,positive,positive,positive
+"hàng đẹp, giao nhanh",positive,neutral,positive,neutral,positive
+"mua 2 thùng giá rẻ",neutral,neutral,neutral,positive,positive
+"ship hơi lâu nhưng đóng gói cẩn thận, giá mềm",positive,positive,negative,positive,neutral
+"shop uy tín, giao hàng nhanh",positive,positive,positive,neutral,positive
+"săn sale rẻ hơn ngoài",neutral,neutral,neutral,positive,positive
+"sữa hỗ trợ tăng cân tiêu hóa tốt",positive,positive,neutral,neutral,positive
+"giao hàng nhanh, bọc xốp cẩn thận",neutral,positive,positive,neutral,positive
+"giao hàng nhanh, giá hợp lí",positive,neutral,positive,positive,positive
+"đóng gói cẩn thận, giao hàng nhanh",positive,positive,positive,neutral,positive
+"mẫu mới đẹp mắt",positive,positive,neutral,neutral,positive
+"đóng gói cẩn thận, giao nhanh",positive,positive,positive,neutral,positive
+"giao hàng nhanh, shipper thân thiện",positive,positive,positive,neutral,positive
+"giao hàng tương đối, đóng gói chắc chắn",positive,positive,neutral,neutral,positive
+"giao hàng nhanh, giá mềm",neutral,positive,positive,positive,positive
+"bao bì đẹp đơn giản, ship nhanh",positive,positive,positive,neutral,positive
+"giao nhanh, chất lượng tốt, giá hợp lí",positive,neutral,positive,positive,positive
+"ship nhanh, sẽ mua lại",positive,neutral,positive,neutral,positive
+"giao hàng hơi lâu nhưng đóng gói cẩn thận",positive,positive,negative,neutral,neutral
+"bao bì bắt mắt, sữa thơm ngon ít ngọt",positive,positive,neutral,neutral,positive
+"mua mall yên tâm, giá rẻ hơn ngoài, giao nhanh",positive,neutral,positive,positive,positive
+"giao hàng nhanh",neutral,neutral,positive,neutral,positive
+"hãng uy tín, giao nhanh, đóng gói cẩn thận",positive,positive,positive,neutral,positive
+"ngọt vừa, bao bì chắc chắn",positive,positive,neutral,neutral,positive
+"đóng gói cẩn thận, giao lẹ",neutral,positive,positive,neutral,positive
+"ít ngọt dễ uống",positive,neutral,neutral,neutral,positive
+"bé dùng hợp",positive,neutral,neutral,neutral,positive
+"shop giao hàng nhanh, tư vấn nhiệt tình",neutral,positive,positive,neutral,positive
+"mọi người bảo dùng ổn",neutral,neutral,neutral,neutral,neutral
+"bé hợp, lên nửa cân, ship nhanh",positive,neutral,positive,neutral,positive
+"shop uy tín, giao hàng nhanh",positive,neutral,positive,neutral,positive
+"giao hàng nhanh, mẫu mã đẹp",positive,positive,positive,neutral,positive
+"bé lên cân đều, giao hàng nhanh",positive,neutral,positive,neutral,positive
+"đóng gói đẹp chắc chắn",neutral,positive,neutral,neutral,positive
+"giao hàng nhanh, giá cả phải chăng",positive,positive,positive,positive,positive
+"màu đỏ không quá ngọt, bé hợp tác",positive,positive,positive,neutral,positive
+"vị ít ngọt dễ uống",positive,neutral,neutral,neutral,positive
+"sp tốt, sữa ngon, bé hợp tác",positive,positive,positive,neutral,positive
+"hàng tạm ổn, giao nhanh, đóng gói cẩn thận",neutral,positive,positive,positive,positive
+"giao hàng nhanh chóng",neutral,neutral,positive,neutral,positive
+"sản phẩm tốt giao hàng nhanh",positive,neutral,positive,neutral,positive
+"bao bì đẹp, bé hợp sữa này",positive,positive,positive,neutral,positive
+"sữa ngon bé thích, giao nhanh",positive,positive,positive,neutral,positive
+"đóng gói cẩn thận, giá rẻ, giao nhanh",positive,positive,positive,positive,positive
+"hộp đẹp, hàng chính hãng",positive,positive,neutral,neutral,positive
+"sữa ngon con thích",positive,positive,neutral,neutral,positive
+"con chịu uống",positive,neutral,neutral,neutral,positive
+"ít ngọt bé dễ uống",positive,neutral,neutral,neutral,positive
+"sữa thơm ngon, đã mua nhiều lần",positive,positive,neutral,neutral,positive
+"giá cả hợp lí",neutral,positive,neutral,positive,positive
+"chính hãng, sẽ mua lại",positive,positive,neutral,neutral,positive
+"giao hàng lâu nhưng sữa tốt",positive,neutral,negative,neutral,neutral
+"giao nhanh đủ hàng chất lượng tốt",positive,neutral,positive,neutral,positive
+"sữa ngon chuẩn chính hãng",positive,positive,neutral,neutral,positive
+"date xa săn sale giá hời",neutral,neutral,neutral,positive,positive
+"giao hơi lâu, đóng gói không chắc chắn",positive,negative,negative,neutral,negative
+"bé rất thích uống",positive,positive,neutral,neutral,positive
+"ship nhanh, đóng gói cẩn thận, giá rẻ",positive,positive,positive,positive,positive
+"ít đường vị thơm béo nhẹ, giao nhanh",positive,positive,positive,neutral,positive
+"săn được giá rẻ",neutral,neutral,neutral,positive,positive
+"sữa thơm dịu ngọt nhẹ, bé tăng cân",positive,positive,neutral,neutral,positive
+"sữa dễ uống không ngọt gắt",positive,positive,neutral,neutral,positive
+"hàng đẹp đầy đủ giao nhanh",positive,neutral,positive,neutral,positive
+"mùi vị thơm ngon dễ uống",positive,positive,neutral,neutral,positive
+"giao hàng nhanh, đóng gói cẩn thận",neutral,positive,positive,neutral,positive
+"hàng giao nhanh chất lượng",positive,positive,positive,neutral,positive
+"Hàng giao nhanh, chưa dùng nên chưa biết chất lượng, giá rẻ hơn siêu thị",neutral,neutral,positive,positive,neutral
+"Đóng gói chán, chai bị mở seal và chảy dầu gội",negative,negative,neutral,neutral,negative
+"Sản phẩm bị vỡ do không bọc chống sốc, quà tặng cũng bị bể",negative,negative,negative,neutral,negative
+"Dầu bị đổ ra ngoài, shop đổ lỗi cho Shopee",negative,negative,negative,neutral,negative
+"Không quét được mã vạch, gội xong tóc cứng và rít",negative,neutral,neutral,neutral,negative
+"Thùng hàng te tua, vòi chai bị gãy",negative,negative,negative,neutral,negative
+"Chai dầu chỉ còn 2/3",negative,negative,neutral,neutral,negative
+"Hàng lỗi, đóng gói không chống sốc làm gãy sản phẩm",negative,negative,negative,neutral,negative
+"Chai dầu bị mở khóa nên chảy ra ngoài",negative,negative,negative,neutral,negative
+"Đóng gói sơ sài, không bọc chống sốc",neutral,negative,neutral,neutral,negative
+"Dầu gội chảy ra làm ướt cả hộp",negative,negative,negative,neutral,negative
+"2 chai dầu bị chảy rất nhiều",negative,negative,negative,neutral,negative
+"Giao chậm, đóng gói ẩu làm vỡ nắp",negative,negative,negative,neutral,negative
+"Hàng bị đổ nhưng đổi trả phiền phức",negative,negative,negative,positive,negative
+"Shop đóng hàng kém, dầu đổ hết ra ngoài",negative,negative,negative,neutral,negative
+"Không quấn keo hay chống sốc, chai bị đổ",negative,negative,negative,neutral,negative
+"Dầu gội gây ngứa, chai chỉ còn hơn nửa",negative,negative,neutral,neutral,negative
+"Đóng gói cực kỳ ẩu, dầu tràn ra ngoài và vỡ nắp",negative,negative,negative,neutral,negative
+"Hàng bị đổ hết ra ngoài",negative,negative,negative,neutral,negative
+"Đơn hàng giao rất chậm và thiếu thông tin",neutral,neutral,negative,neutral,negative
+"Vòi chai bị bể, gói hàng sơ sài",negative,negative,negative,neutral,negative
+"Chai dầu bật nắp làm chảy đầy hộp",negative,negative,negative,neutral,negative
+"Nắp vòi bị bật lên",negative,negative,negative,neutral,negative
+"Chai to nhưng không giảm rụng tóc",negative,neutral,neutral,neutral,negative
+"Hộp nát, sản phẩm như đã mở nắp dùng rồi",negative,negative,negative,neutral,negative
+"Không bọc kỹ, đóng gói cẩu thả",neutral,negative,neutral,neutral,negative
+"Không đúng mô tả, tóc không mượt và rụng nhiều hơn",negative,neutral,neutral,neutral,negative
+"Đóng gói rách nát, hàng bị vỡ",negative,negative,negative,neutral,negative
+"Vỡ nắp tay cầm, dầu bị đổ ra ngoài",negative,negative,negative,neutral,negative
+"Hàng giao không đồng nhất nguồn gốc",negative,neutral,neutral,neutral,negative
+"Chai dầu bị chiết bớt",negative,negative,neutral,neutral,negative
+"Xà bông đổ ra ngoài",negative,negative,negative,neutral,negative
+"Gội xong cả nhà bị rụng tóc nhiều",negative,neutral,neutral,neutral,negative
+"Vỡ chai, gãy vòi, chảy mất nửa chai",negative,negative,negative,neutral,negative
+"Quảng cáo tặng quà nhưng thực tế thiếu quà",negative,neutral,neutral,negative,negative
+"Không nhận đủ đơn hàng",neutral,neutral,negative,neutral,negative
+"Hàng giả, màu và mùi không giống",negative,neutral,neutral,neutral,negative
+"Shop gửi hàng dù đã hủy đơn",neutral,neutral,negative,neutral,negative
+"Flash sale nhưng giá cao hơn shop khác",neutral,neutral,neutral,negative,negative
+"Đóng gói tệ chỉ với ít bong bóng",neutral,negative,neutral,neutral,negative
+"Gói hàng ẩu, dầu đổ đầy ra ngoài",negative,negative,negative,neutral,negative
+"Đóng gói sơ sài, chai cũ như đã mở",negative,negative,neutral,neutral,negative
+"Không quấn bảo vệ làm chai hư và đổ tràn",negative,negative,negative,neutral,negative
+"Hình quảng cáo có quà nhưng nhận không có",negative,neutral,neutral,negative,negative
+"Đơn hàng bị hủy tự động",neutral,neutral,negative,neutral,negative
+"Gội xong bị gàu và ngứa",negative,neutral,neutral,neutral,negative
+"Nghi ngờ hàng nhái vì mã vạch và nơi sản xuất không khớp",negative,neutral,neutral,neutral,negative
+"Gội xong ngứa và bết tóc",negative,neutral,neutral,neutral,negative
+"Không check được mã vạch",negative,neutral,neutral,neutral,negative
+"Vỏ dầu gội nhưng bên trong là dầu xả",negative,neutral,neutral,neutral,negative
+"Chai bị rút bớt dầu",negative,negative,neutral,neutral,negative
+"Không quét được mã vạch, gội bị nhiều gàu hơn",negative,neutral,neutral,neutral,negative
+"Hàng lỗi hoặc hư hỏng",negative,neutral,neutral,neutral,negative
+"Nắp chai bị bật và chảy hết ra ngoài",negative,negative,negative,neutral,negative
+"Chờ cả tuần nhưng không được giao",neutral,neutral,negative,neutral,negative
+"Thiếu sản phẩm nhưng vẫn bị tính ship",negative,neutral,negative,negative,negative
+"Không nhận được dầu xả tặng kèm",negative,neutral,neutral,negative,negative
+"Nắp chai bật ra và chảy dầu",negative,negative,negative,neutral,negative
+"Shop đóng hàng quá cẩu thả",neutral,negative,neutral,neutral,negative
+"Giao thiếu quà tặng, xử lý khiếu nại rườm rà",negative,neutral,negative,neutral,negative
+"Đặt dầu gội nhưng giao dầu xả, xử lý khiếu nại kém",negative,neutral,negative,neutral,negative
+"Đóng gói không chắc chắn, nghi ngờ hàng chính hãng",negative,negative,neutral,neutral,negative
+"Nắp chai bị xoay làm chảy xà bông",negative,negative,negative,neutral,negative
+"Không check được mã vạch, khác hàng ngoài thị trường",negative,neutral,neutral,neutral,negative
+"Tem chồng chất như hàng fake, chai bị vơi",negative,negative,neutral,neutral,negative
+"Gói hàng quá tệ, không có chống sốc làm móp méo và chảy dầu",negative,negative,negative,neutral,negative
+"Đóng gói sơ sài",neutral,negative,neutral,neutral,negative
+"Bàn chải quá cứng",negative,neutral,neutral,neutral,negative
+"Sản phẩm không như mô tả, chất lượng kém",negative,neutral,neutral,neutral,negative
