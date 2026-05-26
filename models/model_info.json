@@ -1,0 +1,23 @@
+{
+    "project": "Shopee Aspect-Based Sentiment Analysis",
+    "feature_extraction": "TF-IDF",
+    "main_model": "Logistic Regression",
+    "aspects": [
+        "chat_luong",
+        "dong_goi",
+        "van_chuyen",
+        "gia_ca"
+    ],
+    "labels": [
+        "positive",
+        "negative",
+        "neutral"
+    ],
+    "vectorizer_file": "tfidf_vectorizer.pkl",
+    "model_files": {
+        "chat_luong": "lr_chat_luong.pkl",
+        "dong_goi": "lr_dong_goi.pkl",
+        "van_chuyen": "lr_van_chuyen.pkl",
+        "gia_ca": "lr_gia_ca.pkl"
+    }
+}
