@@ -1,0 +1,8 @@
+﻿possible_reason,count,percentage
+Aspect không được nhắc đến rõ ràng,84,51.53
+Negative class quá ít nên model học chưa tốt,23,14.11
+Comment mơ hồ giữa positive và neutral,20,12.27
+Khác,13,7.98
+Comment có nhiều aspect trong một câu,11,6.75
+Comment quá ngắn,11,6.75
+Comment có lỗi chính tả hoặc teencode,1,0.61

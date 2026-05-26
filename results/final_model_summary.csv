@@ -1,0 +1,2 @@
+﻿best_predictive_model,best_average_macro_f1,logistic_regression_average_macro_f1,performance_gap,selection_case,final_model_decision
+Linear SVM,0.82,0.7964,0.0236,logistic_competitive,Logistic Regression
