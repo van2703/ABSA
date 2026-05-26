@@ -1,0 +1,7 @@
+﻿setting,value
+ngram_range,"(1, 2)"
+min_df,2
+max_df,0.95
+number_of_train_samples,1972
+number_of_test_samples,494
+number_of_tfidf_features,3084

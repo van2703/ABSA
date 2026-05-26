@@ -1,0 +1,13 @@
+﻿aspect,label,full,train,test
+chat_luong,negative,58.56,58.47,58.91
+chat_luong,neutral,4.99,4.92,5.26
+chat_luong,positive,36.46,36.61,35.83
+dong_goi,negative,16.63,16.58,16.8
+dong_goi,neutral,68.37,68.51,67.81
+dong_goi,positive,15.0,14.91,15.38
+gia_ca,negative,2.39,2.43,2.23
+gia_ca,neutral,83.66,83.72,83.4
+gia_ca,positive,13.95,13.84,14.37
+van_chuyen,negative,3.65,4.16,1.62
+van_chuyen,neutral,76.52,76.06,78.34
+van_chuyen,positive,19.83,19.78,20.04

@@ -1,0 +1,5 @@
+﻿aspect,majority_label,majority_count,minority_label,minority_count,imbalance_ratio
+chat_luong,negative,1444,neutral,123,11.74
+dong_goi,neutral,1686,positive,370,4.56
+van_chuyen,neutral,1887,negative,90,20.97
+gia_ca,neutral,2063,negative,59,34.97

@@ -1,0 +1,41 @@
+﻿row_id,comment,clean_comment,aspect,true_label,predicted_label,possible_reason
+480,túi cũng được. giao hàng nhanh,túi cũng được giao hàng nhanh,chat_luong,positive,neutral,Aspect không được nhắc đến rõ ràng
+441,mua 2 thùng giá rẻ,mua 2 thùng giá rẻ,chat_luong,negative,positive,Aspect không được nhắc đến rõ ràng
+0,sản phẩm chắc chắn xoay mượt. giá rẻ. giao siêu nhanh,sản phẩm chắc chắn xoay mượt giá rẻ giao siêu nhanh,chat_luong,negative,positive,Negative class quá ít nên model học chưa tốt
+292,vải mềm mịn mới nhận chưa sử dụng,vải mềm mịn mới nhận chưa sử dụng,chat_luong,positive,neutral,Comment mơ hồ giữa positive và neutral
+40,đổi bao bì mới đóng gói cẩn thận bé tăng cân,đổi bao bì mới đóng gói cẩn thận bé tăng cân,chat_luong,negative,positive,Aspect không được nhắc đến rõ ràng
+240,sữa ít đường dễ uống bé hợp tác chưa thấy tăng cân,sữa ít đường dễ uống bé hợp tác chưa thấy tăng cân,chat_luong,negative,positive,Aspect không được nhắc đến rõ ràng
+97,không đẹp tạm chấp nhận,không đẹp tạm chấp nhận,chat_luong,positive,negative,Khác
+67,tập lớn bìa dày viết thoải mái. giấy mỏng dễ lem. đủ số lượng giao nhanh,tập lớn bìa dày viết thoải mái giấy mỏng dễ lem đủ số lượng giao nhanh,chat_luong,negative,positive,Negative class quá ít nên model học chưa tốt
+171,giao hàng nhanh shipper thân thiện. không phù hợp giá tiền. chưa gắn điện thoại vô đã gãy cây đứng yếu không đáng mua,giao hàng nhanh người giao hàng thân thiện không phù hợp giá tiền chưa gắn điện thoại vô đã gãy cây đứng yếu không đáng mua,chat_luong,negative,positive,Aspect không được nhắc đến rõ ràng
+473,Giao trễ,giao trễ,chat_luong,neutral,negative,Comment quá ngắn
+17,ô ngắn gọn để vừa balo nhưng bề mặt cán nhám ấn mở khó. chiều dài thân ngắn không hợp đi mưa. dùng 1 thời gian đứt dây hỏng nút,ô ngắn gọn để vừa balo nhưng bề mặt cán nhám ấn mở khó chiều dài thân ngắn không hợp đi mưa dùng 1 thời gian đứt dây hỏng nút,dong_goi,negative,neutral,Aspect không được nhắc đến rõ ràng
+52,giao hàng nhanh đầy đủ có tặng thêm. ngòi hơi bẩn,giao hàng nhanh đầy đủ có tặng thêm ngòi hơi bẩn,dong_goi,positive,negative,Aspect không được nhắc đến rõ ràng
+308,sữa hợp tác tốt,sữa hợp tác tốt,dong_goi,positive,neutral,Aspect không được nhắc đến rõ ràng
+127,shop đóng hàng nhanh kỹ sữa thơm ngon ít ngọt,shop đóng hàng nhanh kỹ sữa thơm ngon ít ngọt,dong_goi,positive,neutral,Aspect không được nhắc đến rõ ràng
+317,bé uống được hộp có tay xách tiện lợi,bé uống được hộp có tay xách tiện lợi,dong_goi,positive,neutral,Aspect không được nhắc đến rõ ràng
+485,lừa đảo không đúng mô tả mua gói 1 năm dùng 1 tháng bị khóa. shop không có thiện chí khắc phục,lừa đảo không đúng mô tả mua gói 1 năm dùng 1 tháng bị khóa shop không có thiện chí khắc phục,dong_goi,neutral,negative,Khác
+265,hàng xài tạm giao hàng cũ khóa bên ăn bên không,hàng xài tạm giao hàng cũ khóa bên ăn bên không,dong_goi,negative,neutral,Aspect không được nhắc đến rõ ràng
+309,gửi cái kính không không có miếng lau mô tả ghi rõ bao gồm hộp và lau kính hàng 1k,gửi cái kính không không có miếng lau mô tả ghi rõ bao gồm hộp và lau kính hàng 1k,dong_goi,neutral,positive,Aspect không được nhắc đến rõ ràng
+391,ban đầu mực ra đều. nhựa cứng. ngòi nhỏ nhưng sợ dễ tắc mực. shop giao nhanh đúng hàng. sale rẻ,ban đầu mực ra đều nhựa cứng ngòi nhỏ nhưng sợ dễ tắc mực shop giao nhanh đúng hàng sale rẻ,dong_goi,positive,neutral,Aspect không được nhắc đến rõ ràng
+120,vải dù mỏng dễ rách dễ hư,vải dù mỏng dễ rách dễ hư,dong_goi,negative,neutral,Negative class quá ít nên model học chưa tốt
+43,giao hàng không sạc pin sẵn,giao hàng không sạc pin sẵn,van_chuyen,neutral,negative,Khác
+413,đóng gói sản phẩm hời hợt khi nhận được hàng bị vỡ,đóng gói sản phẩm hời hợt khi nhận được hàng bị vỡ,van_chuyen,neutral,negative,Aspect không được nhắc đến rõ ràng
+358,vỏ vali mỏng. giao hàng kỹ không trầy móp. giá sale rẻ đóng gói chăm sóc tốt,vỏ vali mỏng giao hàng kỹ không trầy móp giá sale rẻ đóng gói chăm sóc tốt,van_chuyen,neutral,positive,Comment mơ hồ giữa positive và neutral
+61,mau hư hơn loại khác dùng 3 ngày sứt chỉ ngày 4 hết nhạy vứt đi. shop tốt shipper nhiệt tình,mau hư hơn loại khác dùng 3 ngày sứt chỉ ngày 4 hết nhạy vứt đi shop tốt người giao hàng nhiệt tình,van_chuyen,positive,negative,Comment có nhiều aspect trong một câu
+211,giao thiếu hàng đặt 2 ốp 3 cường lực giao 1 bộ,giao thiếu hàng đặt 2 ốp 3 cường lực giao 1 bộ,van_chuyen,neutral,negative,Comment có nhiều aspect trong một câu
+172,giao cường lực bị bể vỡ từ trước chứ không phải bên giao hàng làm ăn không có tâm,giao cường lực bị bể vỡ từ trước chứ không phải bên giao hàng làm ăn không có tâm,van_chuyen,neutral,negative,Comment có nhiều aspect trong một câu
+288,giao hàng không kĩ dơ 2 đầu mặc dù có bọc,giao hàng không kĩ dơ 2 đầu mặc dù có bọc,van_chuyen,neutral,negative,Khác
+110,giao hàng cũ bị trầy xước nhiều,giao hàng cũ bị trầy xước nhiều,van_chuyen,neutral,negative,Khác
+443,gói hàng rất cẩn thận,gói hàng rất cẩn thận,van_chuyen,neutral,positive,Aspect không được nhắc đến rõ ràng
+390,Thiếu đơn hàng,thiếu đơn hàng,van_chuyen,neutral,negative,Comment quá ngắn
+4,bình thường không có gì đặc biệt mua cao cấp cũng giống loại thường,bình thường không có gì đặc biệt mua cao cấp cũng giống loại thường,gia_ca,neutral,negative,Aspect không được nhắc đến rõ ràng
+229,mình không mua sản phẩm này nhưng lại hiện ra phần đánh giá,mình không mua sản phẩm này nhưng lại hiện ra phần đánh giá,gia_ca,neutral,negative,Comment có nhiều aspect trong một câu
+141,chất liệu tốt mùi thơm không giống loại nhựa rẻ. sản phẩm tiện cho các bé âm thanh tốt,chất liệu tốt mùi thơm không giống loại nhựa rẻ sản phẩm tiện cho các bé âm thanh tốt,gia_ca,positive,neutral,Comment mơ hồ giữa positive và neutral
+42,giá rẻ nhưng mút cứng,giá rẻ nhưng mút cứng,gia_ca,positive,negative,Khác
+307,sản phẩm chán lỏng lẻo dính không bền lúc là bong,sản phẩm chán lỏng lẻo dính không bền lúc là bong,gia_ca,neutral,negative,Aspect không được nhắc đến rõ ràng
+79,sản phẩm rẻ đẹp dùng tiện. kê điện thoại chắc chắn,sản phẩm rẻ đẹp dùng tiện kê điện thoại chắc chắn,gia_ca,positive,neutral,Comment mơ hồ giữa positive và neutral
+461,không như mô tả hàng lỗi. mua dán cam không dán được không có keo dính. nhắn tin không trả lời mong anh em né,không như mô tả hàng lỗi mua dán cam không dán được không có keo dính nhắn tin không trả lời mong anh em né,gia_ca,neutral,negative,Aspect không được nhắc đến rõ ràng
+210,mua 1k mở ra cường lực nứt hết,mua 1k mở ra cường lực nứt hết,gia_ca,positive,neutral,Aspect không được nhắc đến rõ ràng
+64,sữa thơm béo ít ngọt bao bì chắc chắn giá vừa phải,sữa thơm béo ít ngọt bao bì chắc chắn giá vừa phải,gia_ca,positive,neutral,Comment mơ hồ giữa positive và neutral
+65,"Không có đâu :))), Shop gian lận lượt đánh giá",không có đâu shop gian lận lượt đánh giá,gia_ca,neutral,negative,Khác

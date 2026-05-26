@@ -1,0 +1,24 @@
+﻿aspect,possible_reason,count
+chat_luong,Aspect không được nhắc đến rõ ràng,32
+chat_luong,Negative class quá ít nên model học chưa tốt,13
+chat_luong,Comment mơ hồ giữa positive và neutral,7
+chat_luong,Khác,5
+chat_luong,Comment có nhiều aspect trong một câu,3
+chat_luong,Comment quá ngắn,3
+dong_goi,Aspect không được nhắc đến rõ ràng,42
+dong_goi,Negative class quá ít nên model học chưa tốt,5
+dong_goi,Comment quá ngắn,4
+dong_goi,Comment có nhiều aspect trong một câu,2
+dong_goi,Comment mơ hồ giữa positive và neutral,2
+dong_goi,Khác,2
+gia_ca,Aspect không được nhắc đến rõ ràng,8
+gia_ca,Comment mơ hồ giữa positive và neutral,6
+gia_ca,Negative class quá ít nên model học chưa tốt,5
+gia_ca,Khác,2
+gia_ca,Comment có nhiều aspect trong một câu,1
+van_chuyen,Comment có nhiều aspect trong một câu,5
+van_chuyen,Comment mơ hồ giữa positive và neutral,5
+van_chuyen,Comment quá ngắn,4
+van_chuyen,Khác,4
+van_chuyen,Aspect không được nhắc đến rõ ràng,2
+van_chuyen,Comment có lỗi chính tả hoặc teencode,1

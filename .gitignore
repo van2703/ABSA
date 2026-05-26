@@ -2,13 +2,6 @@ venv/
 __pycache__/
 .ipynb_checkpoints/
 
-*.pkl
-*.joblib
 
-data/raw/
-data/processed/
-
-results/*.csv
-results/confusion_matrices/*.png
 
 .DS_Store

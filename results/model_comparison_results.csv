@@ -1,0 +1,5 @@
+﻿model,chat_luong_macro_f1,dong_goi_macro_f1,gia_ca_macro_f1,van_chuyen_macro_f1,average_macro_f1
+Linear SVM,0.8057,0.877,0.7732,0.8243,0.82
+Logistic Regression,0.7813,0.8435,0.7552,0.8058,0.7964
+Random Forest,0.7542,0.7911,0.7707,0.7187,0.7587
+Multinomial Naive Bayes,0.7031,0.723,0.4961,0.5882,0.6276
